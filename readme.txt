@@ -20,9 +20,6 @@ Those were however approximately 10% of the entries. Possibly there is the metho
 
 The folder "other various data" contains other data that I have managed to scrap but that are not really relevant for the purpose of my further work.
 
-The folder is going to be updated as soon as I will do some analysis of the dataset, for which I plan to use Python's scikit.learn package.
-
-
-
+Licencjat.ipynb is a file with the actual code used for further work which will be updated
 
 
