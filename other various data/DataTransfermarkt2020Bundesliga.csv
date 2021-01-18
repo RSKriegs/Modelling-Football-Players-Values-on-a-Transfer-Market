@@ -1,0 +1,528 @@
+name,age,height,citizenship,position,foot,current club,17/18 games,17/18 goals,17/18 assists,17/18 minutes,18/19 games,18/19 goals,18/19 assists,18/19 minutes,19/20 games,19/20 goals,19/20 assists,19/20 minutes,20/21 games,20/21 goals,20/21 assists,20/21 minutes,current league
+Manuel Neuer,34,"1,93 m",Germany,Goalkeeper,right,Bayern Munich,4.0,0.0,360.0,0.0,38.0,0.0,3383.0,0.0,51.0,0.0,4590.0,0.0,22.0,0.0,2010.0,0.0,Bundesliga
+Alexander Nübel,24,"1,93 m",Germany,Goalkeeper,right,Bayern Munich,2.0,0.0,134.0,0.0,22.0,0.0,1979.0,0.0,29.0,0.0,2616.0,0.0,2.0,0.0,180.0,0.0,Bundesliga
+Ron-Thorben Hoffmann,21,"1,92 m",Germany,Goalkeeper,right,Bayern Munich,27.0,0.0,2430.0,0.0,17.0,0.0,1530.0,0.0,11.0,0.0,990.0,0.0,15.0,0.0,1350.0,0.0,Bundesliga
+David Alaba,28,"1,80 m",Austria,Defender - Centre-Back,left,Bayern Munich,36.0,2.0,2638.0,0.0,43.0,3.0,3631.0,0.0,42.0,2.0,3693.0,0.0,20.0,1.0,1743.0,0.0,Bundesliga
+Niklas Süle,25,"1,95 m",Germany,Defender - Centre-Back,right,Bayern Munich,42.0,2.0,3017.0,0.0,42.0,2.0,3507.0,0.0,16.0,0.0,1151.0,0.0,17.0,2.0,1322.0,0.0,Bundesliga
+Jérôme Boateng,32,"1,90 m",Germany,Defender - Centre-Back,right,Bayern Munich,31.0,2.0,2621.0,0.0,28.0,0.0,2419.0,0.0,38.0,0.0,2806.0,0.0,18.0,1.0,1407.0,0.0,Bundesliga
+Tanguy Nianzou,18,"1,87 m",France  Cote d'Ivoire,Defender - Centre-Back,right,Bayern Munich,,,,,6.0,0.0,540.0,0.0,15.0,3.0,1085.0,0.0,1.0,0.0,21.0,0.0,Bundesliga
+Chris Richards,20,"1,88 m",United States,Defender - Centre-Back,both,Bayern Munich,0.0,0.0,0.0,0.0,29.0,2.0,2449.0,0.0,31.0,4.0,2684.0,0.0,12.0,0.0,680.0,0.0,Bundesliga
+Bright Arrey-Mbi,17,"1,87 m",Germany  England,Defender - Centre-Back,left,FC Bayern Munich II,1.0,0.0,90.0,0.0,7.0,0.0,630.0,0.0,24.0,3.0,1986.0,0.0,9.0,0.0,696.0,0.0,Bundesliga
+Alphonso Davies,20,"1,83 m",Canada  Liberia,Defender - Left-Back,left,Bayern Munich,33.0,8.0,2558.0,0.0,11.0,1.0,524.0,0.0,46.0,3.0,3676.0,0.0,13.0,0.0,819.0,0.0,Bundesliga
+Lucas Hernández,24,"1,84 m",France  Spain,Defender - Left-Back,left,Bayern Munich,44.0,0.0,3492.0,0.0,22.0,1.0,1770.0,0.0,25.0,0.0,1119.0,0.0,17.0,1.0,1276.0,0.0,Bundesliga
+Benjamin Pavard,24,"1,86 m",France,Defender - Right-Back,right,Bayern Munich,36.0,1.0,3270.0,0.0,31.0,0.0,2786.0,0.0,47.0,4.0,3978.0,0.0,17.0,0.0,1343.0,0.0,Bundesliga
+Bouna Sarr,28,"1,77 m",France  Guinea,Defender - Right-Back,right,Bayern Munich,48.0,1.0,3109.0,0.0,37.0,1.0,2654.0,0.0,32.0,2.0,2535.0,0.0,10.0,0.0,619.0,0.0,Bundesliga
+Joshua Kimmich,25,"1,77 m",Germany,midfield - Defensive Midfield,right,Bayern Munich,47.0,6.0,3918.0,0.0,48.0,2.0,4281.0,0.0,51.0,7.0,4354.0,0.0,14.0,4.0,1143.0,0.0,Bundesliga
+Marc Roca,24,"1,84 m",Spain,midfield - Defensive Midfield,left,Bayern Munich,9.0,0.0,348.0,0.0,40.0,1.0,3499.0,0.0,44.0,2.0,3635.0,0.0,7.0,0.0,324.0,0.0,Bundesliga
+Javi Martínez,32,"1,89 m",Spain,midfield - Defensive Midfield,right,Bayern Munich,37.0,2.0,2738.0,0.0,33.0,4.0,2257.0,0.0,24.0,0.0,1015.0,0.0,16.0,1.0,603.0,0.0,Bundesliga
+Angelo Stiller,19,"1,83 m",Germany,midfield - Defensive Midfield,left,FC Bayern Munich II,29.0,3.0,2111.0,0.0,31.0,2.0,2740.0,0.0,33.0,3.0,2734.0,0.0,16.0,0.0,1188.0,0.0,Bundesliga
+Leon Goretzka,25,"1,89 m",Germany,midfield - Central Midfield,right,Bayern Munich,29.0,4.0,2196.0,0.0,42.0,9.0,2720.0,0.0,38.0,8.0,2474.0,0.0,17.0,5.0,1258.0,0.0,Bundesliga
+Corentin Tolisso,26,"1,81 m",France  Togo,midfield - Central Midfield,right,Bayern Munich,40.0,10.0,2382.0,0.0,4.0,1.0,81.0,0.0,28.0,4.0,1396.0,0.0,15.0,2.0,983.0,0.0,Bundesliga
+Tiago Dantas,20,"1,70 m",Portugal,midfield - Central Midfield,right,Bayern Munich,1.0,0.0,34.0,0.0,28.0,4.0,1698.0,0.0,33.0,7.0,2700.0,0.0,12.0,0.0,623.0,0.0,Bundesliga
+Jamal Musiala,17,"1,80 m",England  Germany,midfield - Attacking Midfield,right,Bayern Munich,1.0,0.0,73.0,0.0,2.0,0.0,149.0,0.0,29.0,8.0,1656.0,0.0,18.0,3.0,686.0,0.0,Bundesliga
+Leroy Sané,24,"1,83 m",Germany  France,attack - Left Winger,left,Bayern Munich,49.0,14.0,3648.0,0.0,47.0,16.0,2694.0,0.0,3.0,0.0,81.0,0.0,18.0,6.0,985.0,0.0,Bundesliga
+Kingsley Coman,24,"1,80 m",France  Guadeloupe,attack - Left Winger,right,Bayern Munich,33.0,7.0,1869.0,0.0,30.0,10.0,1928.0,0.0,38.0,8.0,2434.0,0.0,16.0,5.0,1043.0,0.0,Bundesliga
+Serge Gnabry,25,"1,76 m",Germany  Cote d'Ivoire,attack - Right Winger,right,Bayern Munich,27.0,10.0,1806.0,0.0,42.0,13.0,2541.0,0.0,46.0,23.0,3346.0,0.0,20.0,4.0,1369.0,0.0,Bundesliga
+Douglas Costa,30,"1,72 m",Brazil,attack - Right Winger,left,Bayern Munich,47.0,6.0,2912.0,0.0,25.0,1.0,969.0,0.0,29.0,3.0,1084.0,0.0,18.0,1.0,608.0,0.0,Bundesliga
+Thomas Müller,31,"1,85 m",Germany,attack - Second Striker,right,Bayern Munich,45.0,15.0,3125.0,0.0,45.0,9.0,3251.0,0.0,50.0,14.0,3499.0,0.0,24.0,9.0,1971.0,0.0,Bundesliga
+Robert Lewandowski,32,"1,85 m",Poland,attack - Centre-Forward,right,Bayern Munich,48.0,41.0,3787.0,0.0,47.0,40.0,4179.0,0.0,47.0,55.0,4133.0,0.0,20.0,23.0,1733.0,0.0,Bundesliga
+Joshua Zirkzee,19,"1,93 m",Netherlands  Nigeria,attack - Centre-Forward,right,Bayern Munich,21.0,16.0,1469.0,0.0,34.0,22.0,2439.0,0.0,34.0,12.0,1692.0,0.0,9.0,0.0,392.0,0.0,Bundesliga
+Eric Maxim Choupo-Moting,31,"1,91 m",Cameroon  Germany,attack - Centre-Forward,right,Bayern Munich,32.0,5.0,2356.0,0.0,31.0,3.0,1295.0,0.0,20.0,6.0,823.0,0.0,10.0,3.0,384.0,0.0,Bundesliga
+Roman Bürki,30,"1,87 m",Switzerland,Goalkeeper,right,Borussia Dortmund,47.0,0.0,4260.0,0.0,40.0,0.0,3660.0,0.0,39.0,0.0,3490.0,0.0,17.0,0.0,1530.0,0.0,Bundesliga
+Marwin Hitz,33,"1,94 m",Switzerland,Goalkeeper,right,Borussia Dortmund,33.0,0.0,2970.0,0.0,4.0,0.0,420.0,0.0,8.0,0.0,650.0,0.0,7.0,0.0,630.0,0.0,Bundesliga
+Luca Unbehaun,19,"1,85 m",Germany,Goalkeeper,right,Borussia Dortmund,19.0,0.0,1700.0,0.0,30.0,0.0,2703.0,0.0,17.0,0.0,1530.0,0.0,10.0,0.0,900.0,0.0,Bundesliga
+Dan-Axel Zagadou,21,"1,96 m",France  Cote d'Ivoire,Defender - Centre-Back,left,Borussia Dortmund,16.0,1.0,996.0,0.0,23.0,2.0,1853.0,0.0,22.0,1.0,1418.0,0.0,7.0,0.0,228.0,0.0,Bundesliga
+Manuel Akanji,25,"1,87 m",Switzerland  Nigeria,Defender - Centre-Back,right,Borussia Dortmund,39.0,2.0,3344.0,0.0,31.0,1.0,2775.0,0.0,39.0,0.0,3190.0,0.0,20.0,2.0,1745.0,0.0,Bundesliga
+Mats Hummels,32,"1,91 m",Germany,Defender - Centre-Back,right,Borussia Dortmund,41.0,3.0,3491.0,0.0,33.0,2.0,2849.0,0.0,41.0,1.0,3483.0,0.0,23.0,4.0,1984.0,0.0,Bundesliga
+Nico Schulz,27,"1,80 m",Germany  Italy,Defender - Left-Back,left,Borussia Dortmund,34.0,2.0,2344.0,0.0,37.0,2.0,3139.0,0.0,18.0,1.0,1164.0,0.0,8.0,0.0,273.0,0.0,Bundesliga
+Marcel Schmelzer,32,"1,80 m",Germany,Defender - Left-Back,left,Borussia Dortmund,27.0,1.0,2140.0,0.0,13.0,0.0,877.0,0.0,8.0,1.0,59.0,0.0,,,,,Bundesliga
+Thomas Meunier,29,"1,91 m",Belgium,Defender - Right-Back,right,Borussia Dortmund,34.0,5.0,2308.0,0.0,31.0,5.0,2368.0,0.0,27.0,1.0,2135.0,0.0,19.0,0.0,1457.0,0.0,Bundesliga
+Mateu Morey Bauzà,20,"1,73 m",Spain,Defender - Right-Back,right,Borussia Dortmund,5.0,0.0,343.0,0.0,,,,,16.0,0.0,1046.0,0.0,9.0,0.0,481.0,0.0,Bundesliga
+Felix Passlack,22,"1,70 m",Germany,Defender - Right-Back,right,Borussia Dortmund,19.0,2.0,1281.0,0.0,8.0,0.0,628.0,0.0,28.0,3.0,2477.0,0.0,10.0,1.0,514.0,0.0,Bundesliga
+Lukasz Piszczek,35,"1,84 m",Poland,Defender - Right-Back,right,Borussia Dortmund,31.0,0.0,2800.0,0.0,26.0,1.0,2329.0,0.0,38.0,1.0,2731.0,0.0,9.0,1.0,317.0,0.0,Bundesliga
+Emre Can,26,"1,86 m",Germany  Turkey,midfield - Defensive Midfield,right,Borussia Dortmund,38.0,6.0,2942.0,0.0,37.0,4.0,2255.0,0.0,23.0,2.0,1415.0,0.0,16.0,1.0,1118.0,0.0,Bundesliga
+Axel Witsel,31,"1,88 m",Belgium  Martinique,midfield - Defensive Midfield,right,Borussia Dortmund,18.0,2.0,1645.0,0.0,43.0,6.0,3703.0,0.0,39.0,4.0,3216.0,0.0,22.0,1.0,1596.0,0.0,Bundesliga
+Tobias Raschl,20,"1,77 m",Germany,midfield - Defensive Midfield,right,Borussia Dortmund,16.0,1.0,972.0,0.0,30.0,6.0,2540.0,0.0,23.0,4.0,1867.0,0.0,9.0,2.0,559.0,0.0,Bundesliga
+Jude Bellingham,17,"1,86 m",England,midfield - Central Midfield,right,Borussia Dortmund,,,,,1.0,0.0,90.0,0.0,44.0,4.0,2943.0,0.0,20.0,1.0,994.0,0.0,Bundesliga
+Thomas Delaney,29,"1,82 m",Denmark  United States,midfield - Central Midfield,left,Borussia Dortmund,36.0,3.0,3178.0,0.0,38.0,3.0,2760.0,0.0,14.0,0.0,1079.0,0.0,16.0,0.0,1058.0,0.0,Bundesliga
+Mahmoud Dahoud,25,"1,78 m",Germany  Syria,midfield - Central Midfield,right,Borussia Dortmund,34.0,0.0,1831.0,0.0,22.0,1.0,1234.0,0.0,14.0,0.0,584.0,0.0,8.0,0.0,507.0,0.0,Bundesliga
+Raphaël Guerreiro,27,"1,70 m",Portugal  France,midfield - Left Midfield,left,Borussia Dortmund,15.0,2.0,910.0,0.0,32.0,6.0,2036.0,0.0,38.0,8.0,2962.0,0.0,18.0,3.0,1386.0,0.0,Bundesliga
+Julian Brandt,24,"1,85 m",Germany,midfield - Attacking Midfield,right,Borussia Dortmund,39.0,12.0,2731.0,0.0,43.0,10.0,3337.0,0.0,42.0,7.0,2876.0,0.0,23.0,1.0,955.0,0.0,Bundesliga
+Giovanni Reyna,18,"1,85 m",United States  Portugal,midfield - Attacking Midfield,right,Borussia Dortmund,,,,,,,,,34.0,9.0,1789.0,0.0,24.0,4.0,1636.0,0.0,Bundesliga
+Marco Reus,31,"1,80 m",Germany,midfield - Attacking Midfield,right,Borussia Dortmund,15.0,7.0,1163.0,0.0,36.0,21.0,3053.0,0.0,26.0,12.0,2120.0,0.0,23.0,4.0,1382.0,0.0,Bundesliga
+Reinier,18,"1,85 m",Brazil,midfield - Attacking Midfield,right,Borussia Dortmund,,,,,15.0,6.0,727.0,0.0,3.0,2.0,223.0,0.0,8.0,0.0,136.0,0.0,Bundesliga
+Thorgan Hazard,27,"1,75 m",Belgium,attack - Left Winger,right,Borussia Dortmund,37.0,11.0,3211.0,0.0,35.0,13.0,3058.0,0.0,43.0,7.0,3095.0,0.0,12.0,3.0,623.0,0.0,Bundesliga
+Jadon Sancho,20,"1,80 m",England,attack - Right Winger,right,Borussia Dortmund,21.0,5.0,1400.0,0.0,43.0,13.0,2967.0,0.0,44.0,20.0,3274.0,0.0,20.0,6.0,1525.0,0.0,Bundesliga
+Ansgar Knauff,19,"1,80 m",Germany,attack - Right Winger,right,Borussia Dortmund II,,,,,23.0,4.0,1236.0,0.0,26.0,7.0,1586.0,0.0,15.0,4.0,1011.0,0.0,Bundesliga
+Erling Haaland,20,"1,94 m",Norway,attack - Centre-Forward,left,Borussia Dortmund,26.0,12.0,1654.0,0.0,10.0,5.0,555.0,0.0,40.0,44.0,2751.0,0.0,16.0,19.0,1292.0,0.0,Bundesliga
+Youssoufa Moukoko,16,"1,79 m",Germany  Cameroon,attack - Centre-Forward,left,Borussia Dortmund,28.0,40.0,2096.0,0.0,28.0,50.0,2135.0,0.0,28.0,38.0,2445.0,0.0,11.0,14.0,638.0,0.0,Bundesliga
+Steffen Tigges,22,"1,93 m",Germany,attack - Centre-Forward,left,Borussia Dortmund,29.0,1.0,872.0,0.0,28.0,3.0,1164.0,0.0,25.0,9.0,2232.0,0.0,21.0,12.0,1724.0,0.0,Bundesliga
+Péter Gulácsi,30,"1,90 m",Hungary,Goalkeeper,right,RB Leipzig,47.0,0.0,4260.0,0.0,40.0,0.0,3585.0,0.0,42.0,0.0,3754.0,0.0,23.0,0.0,2070.0,0.0,Bundesliga
+Josep Martínez,22,"1,91 m",Spain,Goalkeeper,right,RB Leipzig,25.0,0.0,2250.0,0.0,37.0,0.0,3330.0,0.0,23.0,0.0,2025.0,0.0,0.0,0.0,0.0,0.0,Bundesliga
+Philipp Tschauner,35,"1,96 m",Germany,Goalkeeper,right,RB Leipzig,32.0,0.0,2880.0,0.0,20.0,0.0,1800.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Bundesliga
+Tim Schreiber,18,"1,91 m",Germany,Goalkeeper,right,RB Leipzig,0.0,0.0,0.0,0.0,24.0,0.0,1920.0,0.0,15.0,0.0,1350.0,0.0,4.0,0.0,298.0,0.0,Bundesliga
+Dayot Upamecano,22,"1,86 m",France  Guinea-Bissau,Defender - Centre-Back,right,RB Leipzig,41.0,3.0,3395.0,0.0,22.0,0.0,1852.0,0.0,38.0,0.0,3182.0,0.0,21.0,1.0,1747.0,0.0,Bundesliga
+Ibrahima Konaté,21,"1,94 m",France  Mali,Defender - Centre-Back,right,RB Leipzig,22.0,0.0,1719.0,0.0,43.0,3.0,3666.0,0.0,11.0,0.0,771.0,0.0,12.0,1.0,850.0,0.0,Bundesliga
+Lukas Klostermann,24,"1,89 m",Germany,Defender - Centre-Back,right,RB Leipzig,39.0,1.0,3205.0,0.0,40.0,5.0,2965.0,0.0,43.0,4.0,3634.0,0.0,7.0,0.0,372.0,0.0,Bundesliga
+Willi Orban,28,"1,86 m",Hungary  Germany,Defender - Centre-Back,right,RB Leipzig,37.0,4.0,3038.0,0.0,39.0,4.0,3382.0,0.0,18.0,1.0,1247.0,0.0,20.0,2.0,1405.0,0.0,Bundesliga
+Eric Martel,18,"1,86 m",Germany,Defender - Centre-Back,,RasenBallsport Leipzig U19,,,,,24.0,4.0,1920.0,0.0,27.0,3.0,2430.0,0.0,5.0,1.0,362.0,0.0,Bundesliga
+Angeliño,24,"1,71 m",Spain,Defender - Left-Back,left,RB Leipzig,35.0,3.0,3150.0,0.0,43.0,1.0,3890.0,0.0,31.0,1.0,2527.0,0.0,22.0,8.0,1970.0,0.0,Bundesliga
+Marcel Halstenberg,29,"1,88 m",Germany,Defender - Left-Back,left,RB Leipzig,23.0,2.0,1858.0,0.0,37.0,4.0,3098.0,0.0,38.0,3.0,3217.0,0.0,14.0,1.0,1064.0,0.0,Bundesliga
+Nordi Mukiele,23,"1,87 m",France  DR Congo,Defender - Right-Back,right,RB Leipzig,39.0,0.0,3321.0,0.0,31.0,1.0,1901.0,0.0,37.0,3.0,2659.0,0.0,17.0,1.0,1190.0,0.0,Bundesliga
+Benjamin Henrichs,23,"1,83 m",Germany  Ghana,Defender - Right-Back,right,RB Leipzig,28.0,0.0,1531.0,0.0,30.0,1.0,2517.0,0.0,15.0,0.0,1069.0,0.0,11.0,0.0,466.0,0.0,Bundesliga
+Tyler Adams,21,"1,76 m",United States,midfield - Defensive Midfield,right,RB Leipzig,38.0,1.0,3309.0,0.0,12.0,0.0,876.0,0.0,17.0,1.0,1033.0,0.0,18.0,0.0,1077.0,0.0,Bundesliga
+Marcel Sabitzer,26,"1,77 m",Austria,midfield - Central Midfield,right,RB Leipzig,34.0,5.0,2617.0,0.0,43.0,5.0,3287.0,0.0,44.0,16.0,3558.0,0.0,18.0,3.0,1247.0,0.0,Bundesliga
+Konrad Laimer,23,"1,80 m",Austria,midfield - Central Midfield,right,RB Leipzig,29.0,0.0,1701.0,0.0,43.0,2.0,2956.0,0.0,42.0,4.0,3060.0,0.0,,,,,Bundesliga
+Amadou Haidara,22,"1,75 m",Mali,midfield - Central Midfield,right,RB Leipzig,55.0,8.0,3598.0,0.0,33.0,4.0,1973.0,0.0,28.0,0.0,1091.0,0.0,19.0,3.0,1388.0,0.0,Bundesliga
+Kevin Kampl,30,"1,78 m",Slovenia,midfield - Central Midfield,right,RB Leipzig,39.0,1.0,2993.0,0.0,40.0,3.0,3160.0,0.0,15.0,2.0,965.0,0.0,20.0,0.0,1267.0,0.0,Bundesliga
+Dominik Szoboszlai,20,"1,87 m",Hungary,midfield - Left Midfield,right,RB Leipzig,40.0,11.0,3307.0,0.0,29.0,11.0,1689.0,0.0,40.0,12.0,2674.0,0.0,22.0,9.0,1657.0,0.0,Bundesliga
+Christopher Nkunku,23,"1,75 m",France  DR Congo,midfield - Attacking Midfield,right,RB Leipzig,27.0,5.0,684.0,0.0,29.0,4.0,1503.0,0.0,44.0,5.0,2598.0,0.0,16.0,3.0,1085.0,0.0,Bundesliga
+Dani Olmo,22,"1,79 m",Spain,midfield - Attacking Midfield,right,RB Leipzig,33.0,9.0,2561.0,0.0,44.0,12.0,3301.0,0.0,37.0,13.0,2684.0,0.0,23.0,3.0,1551.0,0.0,Bundesliga
+Lazar Samardzic,18,"1,84 m",Germany  Serbia,midfield - Attacking Midfield,left,RB Leipzig,25.0,24.0,1866.0,0.0,15.0,16.0,1049.0,0.0,25.0,16.0,1935.0,0.0,5.0,0.0,150.0,0.0,Bundesliga
+Joscha Wosz,18,"1,73 m",Germany,midfield - Attacking Midfield,,RasenBallsport Leipzig U19,,,,,23.0,15.0,1762.0,0.0,28.0,6.0,1651.0,0.0,5.0,2.0,302.0,0.0,Bundesliga
+Emil Forsberg,29,"1,79 m",Sweden,attack - Left Winger,right,RB Leipzig,33.0,5.0,2219.0,0.0,29.0,7.0,1753.0,0.0,32.0,10.0,1751.0,0.0,23.0,4.0,1321.0,0.0,Bundesliga
+Justin Kluivert,21,"1,71 m",Netherlands  Suriname,attack - Left Winger,both,RB Leipzig,36.0,11.0,2719.0,0.0,35.0,2.0,1744.0,0.0,31.0,7.0,2130.0,0.0,14.0,2.0,408.0,0.0,Bundesliga
+Fabrice Hartmann,19,"1,78 m",Germany,attack - Right Winger,left,RB Leipzig,32.0,26.0,1908.0,0.0,27.0,15.0,1878.0,0.0,24.0,5.0,1661.0,0.0,,,,,Bundesliga
+Yussuf Poulsen,26,"1,92 m",Denmark  Tanzania,attack - Centre-Forward,right,RB Leipzig,41.0,5.0,2241.0,0.0,45.0,19.0,3321.0,0.0,33.0,5.0,2061.0,0.0,21.0,7.0,1209.0,0.0,Bundesliga
+Alexander Sörloth,25,"1,94 m",Norway,attack - Centre-Forward,left,RB Leipzig,30.0,15.0,2170.0,0.0,38.0,6.0,2366.0,0.0,49.0,33.0,4075.0,0.0,17.0,2.0,623.0,0.0,Bundesliga
+Hee-chan Hwang,24,"1,77 m","Korea, South",attack - Centre-Forward,right,RB Leipzig,37.0,13.0,1995.0,0.0,21.0,2.0,1331.0,0.0,40.0,16.0,2572.0,0.0,8.0,1.0,256.0,0.0,Bundesliga
+Dennis Borkowski,18,"1,84 m",Germany,attack - Centre-Forward,right,RB Leipzig,20.0,5.0,948.0,0.0,22.0,19.0,1594.0,0.0,24.0,11.0,1803.0,0.0,6.0,2.0,197.0,0.0,Bundesliga
+Hugo Novoa,17,"1,82 m",Spain,attack - Centre-Forward,right,RasenBallsport Leipzig U19,,,,,,,,,20.0,5.0,1214.0,0.0,5.0,1.0,342.0,0.0,Bundesliga
+Lukas Hradecky,31,"1,92 m",Finland  Slovakia,Goalkeeper,right,Bayer 04 Leverkusen,40.0,0.0,3630.0,0.0,40.0,0.0,3600.0,0.0,50.0,0.0,4500.0,0.0,21.0,0.0,1890.0,0.0,Bundesliga
+Lennart Grill,21,"1,91 m",Germany,Goalkeeper,right,Bayer 04 Leverkusen,34.0,0.0,3090.0,0.0,28.0,0.0,2460.0,0.0,37.0,0.0,3390.0,0.0,0.0,0.0,0.0,0.0,Bundesliga
+Niklas Lomb,27,"1,86 m",Germany,Goalkeeper,right,Bayer 04 Leverkusen,0.0,0.0,0.0,0.0,14.0,0.0,1260.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,90.0,0.0,Bundesliga
+Edmond Tapsoba,21,"1,94 m",Burkina Faso,Defender - Centre-Back,right,Bayer 04 Leverkusen,0.0,0.0,0.0,0.0,30.0,7.0,2700.0,0.0,54.0,8.0,4463.0,0.0,17.0,0.0,1344.0,0.0,Bundesliga
+Jonathan Tah,24,"1,95 m",Germany  Cote d'Ivoire,Defender - Centre-Back,right,Bayer 04 Leverkusen,33.0,0.0,2936.0,0.0,38.0,3.0,3389.0,0.0,39.0,0.0,3136.0,0.0,15.0,1.0,1146.0,0.0,Bundesliga
+Sven Bender,31,"1,86 m",Germany,Defender - Centre-Back,right,Bayer 04 Leverkusen,34.0,2.0,2812.0,0.0,32.0,0.0,2435.0,0.0,47.0,4.0,3881.0,0.0,10.0,0.0,794.0,0.0,Bundesliga
+Tin Jedvaj,25,"1,88 m",Croatia,Defender - Centre-Back,right,Bayer 04 Leverkusen,10.0,0.0,597.0,0.0,21.0,2.0,1470.0,0.0,31.0,2.0,2642.0,0.0,5.0,0.0,348.0,0.0,Bundesliga
+Aleksandar Dragovic,29,"1,86 m",Austria  Serbia,Defender - Centre-Back,right,Bayer 04 Leverkusen,18.0,0.0,1401.0,0.0,28.0,2.0,2024.0,0.0,25.0,0.0,1552.0,0.0,18.0,2.0,1082.0,0.0,Bundesliga
+Wendell,27,"1,76 m",Brazil,Defender - Left-Back,left,Bayer 04 Leverkusen,30.0,3.0,2533.0,0.0,39.0,2.0,3229.0,0.0,34.0,0.0,2643.0,0.0,11.0,0.0,820.0,0.0,Bundesliga
+Daley Sinkgraven,25,"1,79 m",Netherlands,Defender - Left-Back,left,Bayer 04 Leverkusen,9.0,0.0,566.0,0.0,11.0,0.0,312.0,0.0,21.0,0.0,1525.0,0.0,16.0,0.0,1124.0,0.0,Bundesliga
+Santiago Arias,28,"1,77 m",Colombia,Defender - Right-Back,right,Bayer 04 Leverkusen,35.0,3.0,3144.0,0.0,33.0,1.0,2477.0,0.0,18.0,0.0,1394.0,0.0,1.0,0.0,90.0,0.0,Bundesliga
+Lars Bender,31,"1,85 m",Germany,Defender - Right-Back,right,Bayer 04 Leverkusen,24.0,3.0,1792.0,0.0,27.0,1.0,1814.0,0.0,28.0,2.0,2043.0,0.0,16.0,1.0,1059.0,0.0,Bundesliga
+Mitchell Weiser,26,"1,77 m",Germany,Defender - Right-Back,right,Bayer 04 Leverkusen,31.0,2.0,2531.0,0.0,41.0,2.0,3056.0,0.0,28.0,1.0,1895.0,0.0,5.0,1.0,224.0,0.0,Bundesliga
+Julian Baumgartlinger,33,"1,84 m",Austria,midfield - Defensive Midfield,right,Bayer 04 Leverkusen,24.0,1.0,1577.0,0.0,27.0,0.0,1955.0,0.0,40.0,2.0,2404.0,0.0,20.0,3.0,1344.0,0.0,Bundesliga
+Kerem Demirbay,27,"1,83 m",Germany  Turkey,midfield - Central Midfield,left,Bayer 04 Leverkusen,27.0,2.0,1852.0,0.0,32.0,4.0,2481.0,0.0,40.0,2.0,2725.0,0.0,16.0,2.0,1010.0,0.0,Bundesliga
+Exequiel Palacios,22,"1,77 m",Argentina,midfield - Central Midfield,right,Bayer 04 Leverkusen,20.0,3.0,1349.0,0.0,37.0,3.0,2520.0,0.0,22.0,1.0,1504.0,0.0,6.0,0.0,267.0,0.0,Bundesliga
+Charles Aránguiz,31,"1,71 m",Chile,midfield - Central Midfield,right,Bayer 04 Leverkusen,31.0,2.0,2620.0,0.0,29.0,3.0,2289.0,0.0,39.0,3.0,3112.0,0.0,5.0,1.0,388.0,0.0,Bundesliga
+Cem Türkmen,18,"1,78 m",Turkey  Germany,midfield - Central Midfield,right,Bayer 04 Leverkusen,19.0,2.0,882.0,0.0,24.0,2.0,1837.0,0.0,26.0,3.0,1855.0,0.0,7.0,0.0,488.0,0.0,Bundesliga
+Florian Wirtz,17,"1,75 m",Germany,midfield - Attacking Midfield,right,Bayer 04 Leverkusen,,,,,14.0,4.0,1034.0,0.0,23.0,11.0,1440.0,0.0,19.0,5.0,1400.0,0.0,Bundesliga
+Nadiem Amiri,24,"1,80 m",Germany  Afghanistan,midfield - Attacking Midfield,right,Bayer 04 Leverkusen,33.0,4.0,2096.0,0.0,15.0,3.0,859.0,0.0,42.0,1.0,2561.0,0.0,21.0,5.0,1498.0,0.0,Bundesliga
+Moussa Diaby,21,"1,70 m",France  Mali,attack - Left Winger,left,Bayer 04 Leverkusen,10.0,2.0,749.0,0.0,34.0,4.0,1526.0,0.0,39.0,8.0,2551.0,0.0,22.0,5.0,1680.0,0.0,Bundesliga
+Paulinho,20,"1,77 m",Brazil,attack - Left Winger,right,Bayer 04 Leverkusen,6.0,2.0,465.0,0.0,21.0,1.0,505.0,0.0,19.0,3.0,447.0,0.0,,,,,Bundesliga
+Samed Onur,18,"1,75 m",Turkey  Germany,attack - Left Winger,left,Bayer 04 Leverkusen U19,17.0,3.0,356.0,0.0,25.0,18.0,1968.0,0.0,1.0,0.0,51.0,0.0,6.0,0.0,478.0,0.0,Bundesliga
+Leon Bailey,23,"1,78 m",Jamaica,attack - Right Winger,left,Bayer 04 Leverkusen,34.0,12.0,2521.0,0.0,39.0,5.0,2553.0,0.0,33.0,7.0,1465.0,0.0,20.0,9.0,1408.0,0.0,Bundesliga
+Karim Bellarabi,30,"1,84 m",Germany  Morocco,attack - Right Winger,right,Bayer 04 Leverkusen,29.0,2.0,1385.0,0.0,24.0,9.0,1428.0,0.0,39.0,6.0,2233.0,0.0,18.0,3.0,748.0,0.0,Bundesliga
+Patrik Schick,24,"1,87 m",Czech Republic,attack - Centre-Forward,left,Bayer 04 Leverkusen,26.0,3.0,1281.0,0.0,32.0,5.0,1745.0,0.0,28.0,10.0,1628.0,0.0,15.0,7.0,935.0,0.0,Bundesliga
+Lucas Alario,28,"1,85 m",Argentina  Italy,attack - Centre-Forward,right,Bayer 04 Leverkusen,27.0,10.0,1761.0,0.0,36.0,14.0,1828.0,0.0,36.0,12.0,1911.0,0.0,17.0,11.0,867.0,0.0,Bundesliga
+Emrehan Gedikli,17,"1,86 m",Germany  Turkey,attack - Centre-Forward,right,Bayer 04 Leverkusen U19,,,,,26.0,25.0,1902.0,0.0,17.0,17.0,1161.0,0.0,6.0,1.0,345.0,0.0,Bundesliga
+Yann Sommer,32,"1,83 m",Switzerland,Goalkeeper,right,Borussia Mönchengladbach,33.0,0.0,2897.0,0.0,35.0,0.0,3150.0,0.0,42.0,0.0,3780.0,0.0,20.0,0.0,1800.0,0.0,Bundesliga
+Tobias Sippel,32,"1,80 m",Germany,Goalkeeper,right,Borussia Mönchengladbach,5.0,0.0,433.0,0.0,1.0,0.0,90.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,270.0,0.0,Bundesliga
+Jan Olschowsky,19,"1,82 m",Germany,Goalkeeper,right,Borussia Mönchengladbach,23.0,0.0,1890.0,0.0,24.0,0.0,2137.0,0.0,18.0,0.0,1556.0,0.0,14.0,0.0,1260.0,0.0,Bundesliga
+Max Grün,33,"1,90 m",Germany,Goalkeeper,right,Borussia Mönchengladbach,1.0,0.0,120.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,270.0,0.0,0.0,0.0,0.0,0.0,Bundesliga
+Matthias Ginter,26,"1,91 m",Germany,Defender - Centre-Back,right,Borussia Mönchengladbach,37.0,5.0,3330.0,0.0,29.0,2.0,2560.0,0.0,36.0,1.0,3231.0,0.0,23.0,1.0,2070.0,0.0,Bundesliga
+Nico Elvedi,24,"1,89 m",Switzerland,Defender - Centre-Back,right,Borussia Mönchengladbach,36.0,2.0,3184.0,0.0,31.0,2.0,2715.0,0.0,39.0,1.0,3249.0,0.0,20.0,2.0,1702.0,0.0,Bundesliga
+Tony Jantschke,30,"1,77 m",Germany,Defender - Centre-Back,right,Borussia Mönchengladbach,14.0,0.0,804.0,0.0,15.0,0.0,1020.0,0.0,19.0,0.0,1128.0,0.0,7.0,0.0,256.0,0.0,Bundesliga
+Mamadou Doucouré,22,"1,83 m",France  Senegal,Defender - Centre-Back,left,Borussia Mönchengladbach,,,,,2.0,0.0,135.0,0.0,12.0,0.0,501.0,0.0,1.0,0.0,63.0,0.0,Bundesliga
+Ramy Bensebaini,25,"1,86 m",Algeria,Defender - Left-Back,left,Borussia Mönchengladbach,34.0,1.0,2725.0,0.0,39.0,3.0,3292.0,0.0,26.0,5.0,1768.0,0.0,12.0,3.0,900.0,0.0,Bundesliga
+Oscar Wendt,35,"1,81 m",Sweden,Defender - Left-Back,left,Borussia Mönchengladbach,31.0,1.0,2730.0,0.0,34.0,1.0,2878.0,0.0,31.0,2.0,2166.0,0.0,17.0,2.0,1124.0,0.0,Bundesliga
+Andreas Poulsen,21,"1,88 m",Denmark,Defender - Left-Back,left,Borussia Mönchengladbach,22.0,0.0,1799.0,0.0,15.0,0.0,1115.0,0.0,10.0,0.0,738.0,0.0,4.0,0.0,260.0,0.0,Bundesliga
+Stefan Lainer,28,"1,75 m",Austria,Defender - Right-Back,right,Borussia Mönchengladbach,55.0,2.0,4741.0,0.0,43.0,1.0,3811.0,0.0,39.0,1.0,3433.0,0.0,23.0,1.0,1786.0,0.0,Bundesliga
+Jordan Beyer,20,"1,87 m",Germany,Defender - Right-Back,right,Borussia Mönchengladbach,26.0,4.0,2305.0,0.0,15.0,0.0,1059.0,0.0,18.0,0.0,1279.0,0.0,3.0,0.0,156.0,0.0,Bundesliga
+Joe Scally,18,"1,84 m",United States,Defender - Right-Back,right,Borussia Mönchengladbach,1.0,0.0,33.0,0.0,,,,,6.0,0.0,95.0,0.0,,,,,Bundesliga
+Michael Lang,29,"1,85 m",Switzerland,Defender - Right-Back,right,Borussia Mönchengladbach,44.0,10.0,3951.0,0.0,18.0,1.0,1349.0,0.0,10.0,0.0,632.0,0.0,3.0,0.0,96.0,0.0,Bundesliga
+Kaan Kurt,19,"1,74 m",Germany  Turkey,Defender - Right-Back,both,Borussia Mönchengladbach,21.0,2.0,1393.0,0.0,24.0,0.0,2078.0,0.0,25.0,0.0,2028.0,0.0,17.0,0.0,1258.0,0.0,Bundesliga
+Denis Zakaria,24,"1,90 m",Switzerland  DR Congo,midfield - Defensive Midfield,right,Borussia Mönchengladbach,33.0,2.0,2551.0,0.0,32.0,4.0,1970.0,0.0,31.0,2.0,2667.0,0.0,11.0,0.0,456.0,0.0,Bundesliga
+Christoph Kramer,29,"1,91 m",Germany,midfield - Defensive Midfield,right,Borussia Mönchengladbach,28.0,3.0,2250.0,0.0,19.0,2.0,1227.0,0.0,26.0,0.0,1784.0,0.0,22.0,1.0,1779.0,0.0,Bundesliga
+Florian Neuhaus,23,"1,83 m",Germany,midfield - Central Midfield,right,Borussia Mönchengladbach,29.0,6.0,2318.0,0.0,34.0,4.0,2207.0,0.0,37.0,4.0,2917.0,0.0,22.0,5.0,1733.0,0.0,Bundesliga
+Lászlo Bénes,23,"1,81 m",Slovakia,midfield - Central Midfield,left,Borussia Mönchengladbach,3.0,0.0,82.0,0.0,19.0,2.0,927.0,0.0,28.0,0.0,1256.0,0.0,8.0,1.0,216.0,0.0,Bundesliga
+Rocco Reitz,18,"1,75 m",Germany,midfield - Central Midfield,both,Borussia Mönchengladbach,9.0,1.0,267.0,0.0,12.0,1.0,755.0,0.0,10.0,1.0,705.0,0.0,3.0,0.0,240.0,0.0,Bundesliga
+Valentino Lazaro,24,"1,80 m",Austria,midfield - Right Midfield,right,Borussia Mönchengladbach,35.0,3.0,2550.0,0.0,34.0,3.0,3043.0,0.0,26.0,2.0,1092.0,0.0,12.0,1.0,593.0,0.0,Bundesliga
+Hannes Wolf,21,"1,79 m",Austria,midfield - Attacking Midfield,left,Borussia Mönchengladbach,45.0,12.0,2809.0,0.0,40.0,11.0,2730.0,0.0,5.0,0.0,53.0,0.0,22.0,3.0,791.0,0.0,Bundesliga
+Torben Müsel,21,"1,85 m",Germany,midfield - Attacking Midfield,right,Borussia Mönchengladbach,32.0,11.0,2156.0,0.0,30.0,8.0,2491.0,0.0,2.0,0.0,25.0,0.0,1.0,0.0,85.0,0.0,Bundesliga
+Famana Quizera,18,"1,72 m",Portugal  Guinea-Bissau,midfield - Attacking Midfield,right,Borussia Mönchengladbach,,,,,16.0,11.0,1198.0,0.0,8.0,5.0,638.0,0.0,15.0,3.0,977.0,0.0,Bundesliga
+Marcus Thuram,23,"1,92 m",France  Guadeloupe,attack - Left Winger,right,Borussia Mönchengladbach,34.0,4.0,2047.0,0.0,38.0,13.0,3027.0,0.0,39.0,14.0,2901.0,0.0,20.0,4.0,1230.0,0.0,Bundesliga
+Jonas Hofmann,28,"1,76 m",Germany,attack - Right Winger,right,Borussia Mönchengladbach,25.0,1.0,1076.0,0.0,29.0,6.0,2079.0,0.0,29.0,5.0,1944.0,0.0,14.0,6.0,1137.0,0.0,Bundesliga
+Patrick Herrmann,29,"1,79 m",Germany,attack - Right Winger,right,Borussia Mönchengladbach,26.0,0.0,1208.0,0.0,26.0,3.0,1137.0,0.0,33.0,7.0,1669.0,0.0,20.0,3.0,802.0,0.0,Bundesliga
+Ibrahima Traoré,32,"1,71 m",Guinea  France,attack - Right Winger,left,Borussia Mönchengladbach,9.0,0.0,362.0,0.0,17.0,0.0,590.0,0.0,7.0,0.0,148.0,0.0,9.0,1.0,167.0,0.0,Bundesliga
+Lars Stindl,32,"1,81 m",Germany,attack - Second Striker,right,Borussia Mönchengladbach,34.0,6.0,3001.0,0.0,22.0,3.0,1602.0,0.0,30.0,11.0,1712.0,0.0,23.0,11.0,1528.0,0.0,Bundesliga
+Alassane Plea,27,"1,81 m",France  Mali,attack - Centre-Forward,right,Borussia Mönchengladbach,49.0,21.0,4083.0,0.0,35.0,15.0,2598.0,0.0,33.0,10.0,2452.0,0.0,17.0,7.0,1064.0,0.0,Bundesliga
+Breel Embolo,23,"1,87 m",Switzerland  Cameroon,attack - Centre-Forward,right,Borussia Mönchengladbach,25.0,3.0,1101.0,0.0,28.0,6.0,1881.0,0.0,34.0,8.0,1901.0,0.0,19.0,4.0,1176.0,0.0,Bundesliga
+Julio Villalba,22,"1,76 m",Paraguay,attack - Centre-Forward,right,Borussia Mönchengladbach,1.0,0.0,6.0,0.0,,,,,8.0,0.0,198.0,0.0,1.0,1.0,12.0,0.0,Bundesliga
+Alexander Schwolow,28,"1,90 m",Germany,Goalkeeper,right,Hertha BSC,37.0,0.0,3267.0,0.0,35.0,0.0,3180.0,0.0,25.0,0.0,2212.0,0.0,15.0,0.0,1350.0,0.0,Bundesliga
+Rune Jarstein,36,"1,92 m",Norway,Goalkeeper,right,Hertha BSC,34.0,0.0,3060.0,0.0,33.0,0.0,2955.0,0.0,31.0,0.0,2788.0,0.0,0.0,0.0,0.0,0.0,Bundesliga
+Nils Körber,24,"1,89 m",Germany,Goalkeeper,right,Hertha BSC,20.0,0.0,1755.0,0.0,34.0,0.0,3015.0,0.0,9.0,0.0,720.0,0.0,6.0,0.0,540.0,0.0,Bundesliga
+Jordan Torunarigha,23,"1,91 m",Germany  Nigeria,Defender - Centre-Back,left,Hertha BSC,25.0,2.0,1665.0,0.0,17.0,2.0,1350.0,0.0,23.0,2.0,1817.0,0.0,6.0,0.0,540.0,0.0,Bundesliga
+Niklas Stark,25,"1,90 m",Germany,Defender - Centre-Back,right,Hertha BSC,31.0,2.0,2634.0,0.0,25.0,1.0,2170.0,0.0,24.0,1.0,2065.0,0.0,15.0,0.0,1341.0,0.0,Bundesliga
+Dedryck Boyata,30,"1,88 m",Belgium  DR Congo,Defender - Centre-Back,right,Hertha BSC,39.0,3.0,3316.0,0.0,32.0,1.0,2794.0,0.0,29.0,4.0,2559.0,0.0,13.0,0.0,1155.0,0.0,Bundesliga
+Omar Alderete,24,"1,88 m",Paraguay,Defender - Centre-Back,left,Hertha BSC,22.0,1.0,1978.0,0.0,15.0,0.0,1380.0,0.0,48.0,4.0,4231.0,0.0,12.0,0.0,1065.0,0.0,Bundesliga
+Márton Dárdai,18,"1,88 m",Germany  Hungary,Defender - Centre-Back,left,Hertha BSC II,16.0,0.0,761.0,0.0,24.0,1.0,1818.0,0.0,12.0,0.0,937.0,0.0,5.0,0.0,285.0,0.0,Bundesliga
+Maximilian Mittelstädt,23,"1,80 m",Germany,Defender - Left-Back,left,Hertha BSC,20.0,1.0,1153.0,0.0,29.0,3.0,2111.0,0.0,28.0,1.0,2024.0,0.0,12.0,0.0,741.0,0.0,Bundesliga
+Marvin Plattenhardt,28,"1,81 m",Germany,Defender - Left-Back,left,Hertha BSC,38.0,0.0,3420.0,0.0,25.0,2.0,2226.0,0.0,19.0,0.0,1587.0,0.0,11.0,0.0,776.0,0.0,Bundesliga
+Luca Netz,17,"1,80 m",Germany,Defender - Left-Back,left,Hertha BSC,7.0,0.0,525.0,0.0,27.0,5.0,2080.0,0.0,20.0,2.0,1791.0,0.0,5.0,0.0,364.0,0.0,Bundesliga
+Deyovaisio Zeefuik,22,"1,77 m",Netherlands  Suriname,Defender - Right-Back,right,Hertha BSC,28.0,0.0,1883.0,0.0,32.0,1.0,2835.0,0.0,28.0,0.0,2475.0,0.0,10.0,0.0,284.0,0.0,Bundesliga
+Lukas Klünter,24,"1,84 m",Germany,Defender - Right-Back,right,Hertha BSC,28.0,1.0,2047.0,0.0,12.0,0.0,720.0,0.0,24.0,0.0,1905.0,0.0,0.0,0.0,0.0,0.0,Bundesliga
+Peter Pekarik,34,"1,77 m",Slovakia,Defender - Right-Back,right,Hertha BSC,23.0,1.0,1887.0,0.0,4.0,0.0,288.0,0.0,12.0,0.0,1040.0,0.0,15.0,3.0,1080.0,0.0,Bundesliga
+Lucas Tousart,23,"1,85 m",France,midfield - Defensive Midfield,right,Hertha BSC,50.0,0.0,4261.0,0.0,42.0,1.0,2638.0,0.0,39.0,3.0,2844.0,0.0,11.0,0.0,819.0,0.0,Bundesliga
+Santiago Ascacíbar,23,"1,68 m",Argentina,midfield - Defensive Midfield,right,Hertha BSC,31.0,0.0,2557.0,0.0,28.0,0.0,2520.0,0.0,24.0,1.0,2099.0,0.0,0.0,0.0,0.0,0.0,Bundesliga
+Mattéo Guendouzi,21,"1,85 m",France  Morocco,midfield - Central Midfield,right,Hertha BSC,21.0,0.0,1651.0,0.0,48.0,1.0,3040.0,0.0,34.0,0.0,2407.0,0.0,9.0,2.0,753.0,0.0,Bundesliga
+Vladimir Darida,30,"1,72 m",Czech Republic,midfield - Central Midfield,right,Hertha BSC,24.0,0.0,1845.0,0.0,13.0,0.0,585.0,0.0,30.0,4.0,2471.0,0.0,14.0,0.0,1114.0,0.0,Bundesliga
+Eduard Löwen,23,"1,88 m",Germany  Russia,midfield - Central Midfield,right,Hertha BSC,35.0,5.0,2547.0,0.0,23.0,3.0,1669.0,0.0,24.0,2.0,1065.0,0.0,4.0,0.0,29.0,0.0,Bundesliga
+Javairô Dilrosun,22,"1,75 m",Netherlands  Suriname,attack - Left Winger,left,Hertha BSC,14.0,0.0,1049.0,0.0,22.0,2.0,1244.0,0.0,25.0,4.0,1445.0,0.0,8.0,0.0,286.0,0.0,Bundesliga
+Dodi Lukebakio,23,"1,87 m",Belgium  DR Congo,attack - Right Winger,left,Hertha BSC,21.0,3.0,1396.0,0.0,34.0,14.0,2170.0,0.0,33.0,8.0,2197.0,0.0,15.0,5.0,1141.0,0.0,Bundesliga
+Mathew Leckie,29,"1,81 m",Australia,attack - Right Winger,right,Hertha BSC,29.0,6.0,2026.0,0.0,19.0,2.0,938.0,0.0,10.0,0.0,383.0,0.0,9.0,0.0,196.0,0.0,Bundesliga
+Matheus Cunha,21,"1,84 m",Brazil,attack - Centre-Forward,right,Hertha BSC,33.0,10.0,2471.0,0.0,39.0,9.0,1952.0,0.0,24.0,5.0,1103.0,0.0,14.0,7.0,1207.0,0.0,Bundesliga
+Krzysztof Piatek,25,"1,83 m",Poland,attack - Centre-Forward,right,Hertha BSC,38.0,21.0,3279.0,0.0,42.0,30.0,3410.0,0.0,36.0,10.0,2371.0,0.0,14.0,4.0,653.0,0.0,Bundesliga
+Jhon Córdoba,27,"1,88 m",Colombia,attack - Centre-Forward,right,Hertha BSC,22.0,2.0,1252.0,0.0,33.0,21.0,2012.0,0.0,31.0,14.0,2154.0,0.0,8.0,4.0,542.0,0.0,Bundesliga
+Daishawn Redan,19,"1,76 m",Netherlands  Suriname,attack - Centre-Forward,right,Hertha BSC,29.0,19.0,1970.0,0.0,34.0,13.0,2193.0,0.0,16.0,4.0,1054.0,0.0,6.0,1.0,271.0,0.0,Bundesliga
+Jessic Ngankam,20,"1,84 m",Germany  Cameroon,attack - Centre-Forward,right,Hertha BSC,29.0,5.0,1302.0,0.0,28.0,29.0,2321.0,0.0,26.0,11.0,1555.0,0.0,12.0,2.0,348.0,0.0,Bundesliga
+Oliver Baumann,30,"1,87 m",Germany,Goalkeeper,right,TSG 1899 Hoffenheim,41.0,0.0,3690.0,0.0,39.0,0.0,3510.0,0.0,31.0,0.0,2820.0,0.0,21.0,0.0,1950.0,0.0,Bundesliga
+Philipp Pentke,35,"1,91 m",Germany,Goalkeeper,right,TSG 1899 Hoffenheim,30.0,0.0,2700.0,0.0,30.0,0.0,2700.0,0.0,7.0,0.0,660.0,0.0,3.0,0.0,270.0,0.0,Bundesliga
+Luca Philipp,20,"1,92 m",Germany,Goalkeeper,,TSG 1899 Hoffenheim,1.0,0.0,90.0,0.0,6.0,0.0,540.0,0.0,2.0,0.0,180.0,0.0,10.0,0.0,900.0,0.0,Bundesliga
+Stefan Posch,23,"1,88 m",Austria,Defender - Centre-Back,right,TSG 1899 Hoffenheim,17.0,0.0,1423.0,0.0,24.0,2.0,2034.0,0.0,30.0,0.0,2526.0,0.0,15.0,0.0,1218.0,0.0,Bundesliga
+Kevin Vogt,29,"1,94 m",Germany,Defender - Centre-Back,right,TSG 1899 Hoffenheim,40.0,0.0,3533.0,0.0,34.0,0.0,2934.0,0.0,29.0,0.0,2453.0,0.0,19.0,0.0,1725.0,0.0,Bundesliga
+Kevin Akpoguma,25,"1,92 m",Nigeria  Germany,Defender - Centre-Back,right,TSG 1899 Hoffenheim,27.0,0.0,2126.0,0.0,14.0,0.0,992.0,0.0,20.0,0.0,1346.0,0.0,19.0,1.0,1513.0,0.0,Bundesliga
+Benjamin Hübner,31,"1,93 m",Germany,Defender - Centre-Back,left,TSG 1899 Hoffenheim,32.0,4.0,2722.0,0.0,11.0,0.0,903.0,0.0,27.0,1.0,2285.0,0.0,,,,,Bundesliga
+Kasim Adams,25,"1,90 m",Ghana,Defender - Centre-Back,right,TSG 1899 Hoffenheim,45.0,3.0,3996.0,0.0,16.0,0.0,1136.0,0.0,15.0,2.0,1104.0,0.0,10.0,0.0,723.0,0.0,Bundesliga
+Ermin Bicakcic,30,"1,85 m",Bosnia-Herzegovina  Germany,Defender - Centre-Back,right,TSG 1899 Hoffenheim,13.0,0.0,825.0,0.0,30.0,1.0,2198.0,0.0,22.0,2.0,1289.0,0.0,3.0,1.0,249.0,0.0,Bundesliga
+Melayro Bogarde,18,"1,84 m",Netherlands  Suriname,Defender - Centre-Back,right,TSG 1899 Hoffenheim,20.0,2.0,1659.0,0.0,25.0,1.0,1817.0,0.0,14.0,0.0,1142.0,0.0,11.0,0.0,838.0,0.0,Bundesliga
+Havard Nordtveit,30,"1,88 m",Norway,Defender - Centre-Back,right,TSG 1899 Hoffenheim,23.0,0.0,1502.0,0.0,16.0,1.0,1011.0,0.0,12.0,0.0,818.0,0.0,9.0,0.0,647.0,0.0,Bundesliga
+Ryan Sessegnon,20,"1,78 m",England,Defender - Left-Back,left,TSG 1899 Hoffenheim,52.0,16.0,4404.0,0.0,38.0,2.0,2490.0,0.0,12.0,1.0,772.0,0.0,16.0,2.0,1171.0,0.0,Bundesliga
+Konstantinos Stafylidis,27,"1,78 m",Greece,Defender - Left-Back,left,TSG 1899 Hoffenheim,7.0,0.0,365.0,0.0,14.0,0.0,979.0,0.0,7.0,1.0,397.0,0.0,,,,,Bundesliga
+Pavel Kaderabek,28,"1,82 m",Czech Republic,Defender - Right-Back,right,TSG 1899 Hoffenheim,34.0,3.0,2631.0,0.0,36.0,5.0,3140.0,0.0,33.0,3.0,2776.0,0.0,4.0,0.0,291.0,0.0,Bundesliga
+Joshua Brenet,26,"1,81 m",Netherlands  Curacao,Defender - Right-Back,right,TSG 1899 Hoffenheim,38.0,1.0,3366.0,0.0,18.0,3.0,1158.0,0.0,8.0,0.0,576.0,0.0,2.0,0.0,99.0,0.0,Bundesliga
+Diadié Samassékou,24,"1,77 m",Mali,midfield - Defensive Midfield,right,TSG 1899 Hoffenheim,50.0,0.0,4354.0,0.0,45.0,2.0,3934.0,0.0,22.0,0.0,1399.0,0.0,17.0,0.0,1283.0,0.0,Bundesliga
+Sebastian Rudy,30,"1,80 m",Germany,midfield - Defensive Midfield,right,TSG 1899 Hoffenheim,35.0,1.0,2133.0,0.0,28.0,0.0,1853.0,0.0,35.0,1.0,2993.0,0.0,18.0,0.0,1244.0,0.0,Bundesliga
+Florian Grillitsch,25,"1,87 m",Austria,midfield - Central Midfield,right,TSG 1899 Hoffenheim,29.0,2.0,2220.0,0.0,36.0,1.0,2810.0,0.0,34.0,1.0,2616.0,0.0,16.0,4.0,1001.0,0.0,Bundesliga
+Dennis Geiger,22,"1,73 m",Germany,midfield - Central Midfield,right,TSG 1899 Hoffenheim,27.0,2.0,1867.0,0.0,8.0,0.0,558.0,0.0,23.0,0.0,1301.0,0.0,14.0,1.0,935.0,0.0,Bundesliga
+Christoph Baumgartner,21,"1,80 m",Austria,midfield - Attacking Midfield,right,TSG 1899 Hoffenheim,29.0,9.0,2314.0,0.0,16.0,5.0,1013.0,0.0,32.0,8.0,1918.0,0.0,23.0,4.0,1591.0,0.0,Bundesliga
+Mijat Gacinovic,25,"1,75 m",Serbia  Bosnia-Herzegovina,midfield - Attacking Midfield,right,TSG 1899 Hoffenheim,33.0,4.0,2103.0,0.0,45.0,2.0,2913.0,0.0,36.0,1.0,1651.0,0.0,21.0,1.0,879.0,0.0,Bundesliga
+Marco John,18,"1,83 m",Germany,midfield - Attacking Midfield,left,TSG 1899 Hoffenheim,21.0,5.0,1112.0,0.0,26.0,6.0,1751.0,0.0,17.0,2.0,1422.0,0.0,8.0,0.0,655.0,0.0,Bundesliga
+Jacob Bruun Larsen,22,"1,83 m",Denmark,attack - Left Winger,right,TSG 1899 Hoffenheim,12.0,4.0,639.0,0.0,30.0,3.0,1476.0,0.0,21.0,0.0,619.0,0.0,3.0,0.0,101.0,0.0,Bundesliga
+Robert Skov,24,"1,85 m",Denmark,attack - Right Winger,left,TSG 1899 Hoffenheim,43.0,6.0,3309.0,0.0,48.0,32.0,3723.0,0.0,36.0,5.0,2907.0,0.0,18.0,1.0,1073.0,0.0,Bundesliga
+Ihlas Bebou,26,"1,83 m",Togo  Germany,attack - Right Winger,right,TSG 1899 Hoffenheim,36.0,7.0,2683.0,0.0,14.0,5.0,1249.0,0.0,35.0,7.0,2365.0,0.0,19.0,3.0,1042.0,0.0,Bundesliga
+Andrej Kramaric,29,"1,77 m",Croatia,attack - Centre-Forward,right,TSG 1899 Hoffenheim,42.0,13.0,2928.0,0.0,37.0,22.0,2976.0,0.0,20.0,12.0,1509.0,0.0,16.0,13.0,1318.0,0.0,Bundesliga
+Munas Dabbur,28,"1,82 m",Israel,attack - Centre-Forward,right,TSG 1899 Hoffenheim,55.0,29.0,4487.0,0.0,48.0,37.0,3664.0,0.0,24.0,9.0,1244.0,0.0,17.0,6.0,974.0,0.0,Bundesliga
+Ishak Belfodil,28,"1,92 m",Algeria  France,attack - Centre-Forward,right,TSG 1899 Hoffenheim,32.0,6.0,1605.0,0.0,35.0,17.0,2322.0,0.0,5.0,0.0,269.0,0.0,16.0,1.0,765.0,0.0,Bundesliga
+Sargis Adamyan,27,"1,84 m",Armenia,attack - Centre-Forward,right,TSG 1899 Hoffenheim,35.0,5.0,2901.0,0.0,34.0,15.0,2879.0,0.0,17.0,7.0,923.0,0.0,13.0,3.0,509.0,0.0,Bundesliga
+Klauss,23,"1,90 m",Brazil  Italy,attack - Centre-Forward,right,TSG 1899 Hoffenheim,53.0,27.0,3492.0,0.0,22.0,5.0,1686.0,0.0,45.0,20.0,2520.0,0.0,13.0,1.0,662.0,0.0,Bundesliga
+Maximilian Beier,18,"1,83 m",Germany,attack - Centre-Forward,,TSG 1899 Hoffenheim,4.0,2.0,271.0,0.0,27.0,19.0,1423.0,0.0,22.0,11.0,1570.0,0.0,12.0,4.0,699.0,0.0,Bundesliga
+Koen Casteels,28,"1,97 m",Belgium,Goalkeeper,left,VfL Wolfsburg,39.0,0.0,3510.0,0.0,29.0,0.0,2565.0,0.0,32.0,0.0,2910.0,0.0,17.0,0.0,1530.0,0.0,Bundesliga
+Pavao Pervan,33,"1,94 m",Austria,Goalkeeper,both,VfL Wolfsburg,38.0,0.0,3450.0,0.0,9.0,0.0,764.0,0.0,14.0,0.0,1290.0,0.0,3.0,0.0,270.0,0.0,Bundesliga
+Niklas Klinger,25,"1,87 m",Germany,Goalkeeper,right,VfL Wolfsburg,12.0,0.0,1080.0,0.0,9.0,0.0,810.0,0.0,2.0,0.0,180.0,0.0,0.0,0.0,0.0,0.0,Bundesliga
+Lino Kasten,19,"1,88 m",Germany,Goalkeeper,right,VfL Wolfsburg,23.0,0.0,1876.0,0.0,24.0,0.0,2190.0,0.0,13.0,0.0,1115.0,0.0,2.0,0.0,180.0,0.0,Bundesliga
+John Anthony Brooks,27,"1,93 m",United States  Germany,Defender - Centre-Back,left,VfL Wolfsburg,12.0,0.0,946.0,0.0,32.0,3.0,2880.0,0.0,31.0,1.0,2776.0,0.0,15.0,1.0,1215.0,0.0,Bundesliga
+Marin Pongracic,23,"1,90 m",Croatia  Germany,Defender - Centre-Back,right,VfL Wolfsburg,23.0,0.0,1666.0,0.0,26.0,0.0,2226.0,0.0,19.0,2.0,1543.0,0.0,6.0,0.0,364.0,0.0,Bundesliga
+Maxence Lacroix,20,"1,90 m",France  Guadeloupe,Defender - Centre-Back,right,VfL Wolfsburg,,,,,8.0,0.0,720.0,0.0,20.0,0.0,1731.0,0.0,17.0,1.0,1424.0,0.0,Bundesliga
+Jeffrey Bruma,29,"1,89 m",Netherlands  Suriname,Defender - Centre-Back,right,VfL Wolfsburg,13.0,0.0,1200.0,0.0,12.0,0.0,893.0,0.0,23.0,0.0,1955.0,0.0,1.0,0.0,90.0,0.0,Bundesliga
+Tim Siersleben,20,"1,87 m",Germany,Defender - Centre-Back,left,VfL Wolfsburg,21.0,0.0,1540.0,0.0,30.0,4.0,2718.0,0.0,22.0,0.0,1980.0,0.0,1.0,0.0,90.0,0.0,Bundesliga
+Jérôme Roussillon,28,"1,75 m",France  Guadeloupe,Defender - Left-Back,left,VfL Wolfsburg,25.0,3.0,2117.0,0.0,31.0,3.0,2736.0,0.0,37.0,1.0,2866.0,0.0,15.0,0.0,1134.0,0.0,Bundesliga
+Paulo Otávio,26,"1,73 m",Brazil,Defender - Left-Back,left,VfL Wolfsburg,9.0,0.0,523.0,0.0,29.0,0.0,2402.0,0.0,9.0,1.0,683.0,0.0,14.0,0.0,864.0,0.0,Bundesliga
+Ridle Baku,22,"1,76 m",Germany  DR Congo,Defender - Right-Back,right,VfL Wolfsburg,30.0,3.0,2564.0,0.0,17.0,0.0,1092.0,0.0,31.0,1.0,2424.0,0.0,17.0,2.0,1435.0,0.0,Bundesliga
+William,25,"1,76 m",Brazil,Defender - Right-Back,right,VfL Wolfsburg,26.0,0.0,1941.0,0.0,33.0,2.0,2857.0,0.0,22.0,3.0,1862.0,0.0,2.0,0.0,0.0,0.0,Bundesliga
+Kevin Mbabu,25,"1,84 m",Switzerland  DR Congo,Defender - Right-Back,right,VfL Wolfsburg,44.0,2.0,3745.0,0.0,33.0,1.0,2853.0,0.0,27.0,3.0,2113.0,0.0,4.0,0.0,234.0,0.0,Bundesliga
+Josuha Guilavogui,30,"1,88 m",France  Guinea,midfield - Defensive Midfield,right,VfL Wolfsburg,35.0,3.0,2857.0,0.0,20.0,2.0,1659.0,0.0,32.0,0.0,2618.0,0.0,12.0,2.0,892.0,0.0,Bundesliga
+Xaver Schlager,23,"1,74 m",Austria,midfield - Central Midfield,left,VfL Wolfsburg,46.0,1.0,2947.0,0.0,44.0,8.0,3501.0,0.0,29.0,1.0,2178.0,0.0,18.0,1.0,1365.0,0.0,Bundesliga
+Maximilian Arnold,26,"1,84 m",Germany,midfield - Central Midfield,left,VfL Wolfsburg,34.0,2.0,2934.0,0.0,36.0,2.0,3149.0,0.0,44.0,5.0,3826.0,0.0,17.0,2.0,1376.0,0.0,Bundesliga
+Yannick Gerhardt,26,"1,84 m",Germany,midfield - Central Midfield,left,VfL Wolfsburg,21.0,1.0,1492.0,0.0,33.0,2.0,2705.0,0.0,25.0,4.0,1451.0,0.0,14.0,2.0,802.0,0.0,Bundesliga
+Yunus Malli,28,"1,79 m",Turkey  Germany,midfield - Attacking Midfield,right,VfL Wolfsburg,37.0,6.0,2704.0,0.0,23.0,1.0,773.0,0.0,15.0,0.0,726.0,0.0,2.0,0.0,63.0,0.0,Bundesliga
+Josip Brekalo,22,"1,75 m",Croatia,attack - Left Winger,right,VfL Wolfsburg,32.0,6.0,1966.0,0.0,27.0,3.0,1527.0,0.0,41.0,7.0,2499.0,0.0,16.0,2.0,1246.0,0.0,Bundesliga
+João Victor,26,"1,78 m",Brazil,attack - Left Winger,both,VfL Wolfsburg,20.0,7.0,1574.0,0.0,34.0,20.0,2821.0,0.0,41.0,5.0,2206.0,0.0,14.0,3.0,537.0,0.0,Bundesliga
+Renato Steffen,29,"1,70 m",Switzerland,attack - Right Winger,left,VfL Wolfsburg,45.0,3.0,2927.0,0.0,34.0,5.0,1663.0,0.0,38.0,6.0,2213.0,0.0,17.0,2.0,1285.0,0.0,Bundesliga
+Felix Klaus,28,"1,79 m",Germany,attack - Right Winger,right,VfL Wolfsburg,29.0,4.0,2080.0,0.0,15.0,1.0,435.0,0.0,29.0,0.0,850.0,0.0,8.0,0.0,290.0,0.0,Bundesliga
+Maximilian Philipp,26,"1,83 m",Germany,attack - Second Striker,right,VfL Wolfsburg,28.0,9.0,1655.0,0.0,23.0,2.0,1046.0,0.0,21.0,8.0,1310.0,0.0,17.0,2.0,944.0,0.0,Bundesliga
+Admir Mehmedi,29,"1,83 m",Switzerland  North Macedonia,attack - Second Striker,right,VfL Wolfsburg,21.0,3.0,1284.0,0.0,28.0,7.0,1799.0,0.0,26.0,3.0,1631.0,0.0,14.0,2.0,905.0,0.0,Bundesliga
+Wout Weghorst,28,"1,97 m",Netherlands,attack - Centre-Forward,right,VfL Wolfsburg,37.0,27.0,3302.0,0.0,36.0,18.0,3118.0,0.0,43.0,20.0,3710.0,0.0,20.0,14.0,1683.0,0.0,Bundesliga
+Daniel Ginczek,29,"1,91 m",Germany,attack - Centre-Forward,right,VfL Wolfsburg,25.0,8.0,1675.0,0.0,26.0,7.0,1449.0,0.0,24.0,5.0,992.0,0.0,9.0,1.0,254.0,0.0,Bundesliga
+Bartosz Bialek,19,"1,91 m",Poland,attack - Centre-Forward,right,VfL Wolfsburg,12.0,2.0,368.0,0.0,23.0,5.0,1172.0,0.0,33.0,14.0,2596.0,0.0,10.0,1.0,169.0,0.0,Bundesliga
+Kevin Trapp,30,"1,89 m",Germany,Goalkeeper,right,Eintracht Frankfurt,14.0,0.0,1260.0,0.0,45.0,0.0,4048.0,0.0,34.0,0.0,3060.0,0.0,16.0,0.0,1440.0,0.0,Bundesliga
+Markus Schubert,22,"1,87 m",Germany,Goalkeeper,right,Eintracht Frankfurt,10.0,0.0,900.0,0.0,32.0,0.0,2910.0,0.0,10.0,0.0,831.0,0.0,2.0,0.0,180.0,0.0,Bundesliga
+Elias Bördner,18,"1,88 m",Germany,Goalkeeper,right,Eintracht Frankfurt U19,0.0,0.0,0.0,0.0,17.0,0.0,1360.0,0.0,3.0,0.0,270.0,0.0,4.0,0.0,360.0,0.0,Bundesliga
+Evan N'Dicka,21,"1,92 m",France  Cameroon,Defender - Centre-Back,left,Eintracht Frankfurt,14.0,0.0,1008.0,0.0,36.0,1.0,3041.0,0.0,34.0,2.0,2758.0,0.0,7.0,0.0,630.0,0.0,Bundesliga
+Martin Hinteregger,28,"1,84 m",Austria,Defender - Centre-Back,left,Eintracht Frankfurt,31.0,0.0,2744.0,0.0,41.0,4.0,3588.0,0.0,49.0,9.0,4259.0,0.0,16.0,0.0,1440.0,0.0,Bundesliga
+Tuta,21,"1,84 m",Brazil,Defender - Centre-Back,right,Eintracht Frankfurt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.0,1.0,1620.0,0.0,3.0,0.0,207.0,0.0,Bundesliga
+David Abraham,34,"1,88 m",Argentina  Italy,Defender - Centre-Back,right,Eintracht Frankfurt,30.0,0.0,2505.0,0.0,27.0,0.0,2330.0,0.0,37.0,3.0,3175.0,0.0,14.0,1.0,1224.0,0.0,Bundesliga
+Fynn Otto,18,"1,92 m",Germany,Defender - Centre-Back,both,Eintracht Frankfurt,20.0,3.0,1358.0,0.0,24.0,3.0,1823.0,0.0,16.0,1.0,1440.0,0.0,2.0,0.0,138.0,0.0,Bundesliga
+Felix Irorere,18,"1,95 m",Germany  France,Defender - Centre-Back,,Eintracht Frankfurt,18.0,1.0,1058.0,0.0,25.0,3.0,1925.0,0.0,7.0,3.0,598.0,0.0,,,,,Bundesliga
+Yannick Brugger,19,"1,90 m",Germany,Defender - Centre-Back,right,Eintracht Frankfurt,29.0,4.0,2254.0,0.0,,,,,13.0,0.0,1170.0,0.0,,,,,Bundesliga
+Jetro Willems,26,"1,69 m",Netherlands  Curacao,Defender - Left-Back,left,Eintracht Frankfurt,29.0,0.0,2092.0,0.0,36.0,0.0,1370.0,0.0,20.0,2.0,1579.0,0.0,,,,,Bundesliga
+Danny da Costa,27,"1,87 m",Germany  Angola,Defender - Right-Back,right,Eintracht Frankfurt,21.0,1.0,1417.0,0.0,50.0,4.0,4472.0,0.0,37.0,4.0,2496.0,0.0,7.0,0.0,195.0,0.0,Bundesliga
+Almamy Touré,24,"1,83 m",France  Mali,Defender - Right-Back,right,Eintracht Frankfurt,27.0,1.0,1872.0,0.0,12.0,0.0,880.0,0.0,29.0,1.0,2370.0,0.0,8.0,0.0,429.0,0.0,Bundesliga
+Timothy Chandler,30,"1,86 m",United States  Germany,Defender - Right-Back,right,Eintracht Frankfurt,25.0,3.0,1983.0,0.0,1.0,0.0,16.0,0.0,33.0,5.0,1575.0,0.0,5.0,0.0,68.0,0.0,Bundesliga
+Erik Durm,28,"1,83 m",Germany,Defender - Right-Back,right,Eintracht Frankfurt,0.0,0.0,0.0,0.0,30.0,0.0,2217.0,0.0,15.0,0.0,821.0,0.0,8.0,0.0,696.0,0.0,Bundesliga
+Stefan Ilsanker,31,"1,89 m",Austria,midfield - Defensive Midfield,right,Eintracht Frankfurt,28.0,0.0,1697.0,0.0,34.0,0.0,1900.0,0.0,25.0,2.0,1702.0,0.0,15.0,1.0,814.0,0.0,Bundesliga
+Makoto Hasebe,36,"1,80 m",Japan,midfield - Defensive Midfield,right,Eintracht Frankfurt,29.0,0.0,2569.0,0.0,44.0,0.0,3932.0,0.0,39.0,0.0,3344.0,0.0,11.0,0.0,977.0,0.0,Bundesliga
+Lukas Fahrnberger,20,"1,82 m",Austria,midfield - Defensive Midfield,left,Eintracht Frankfurt,,,,,,,,,12.0,0.0,370.0,0.0,,,,,Bundesliga
+Djibril Sow,23,"1,84 m",Switzerland  Senegal,midfield - Central Midfield,right,Eintracht Frankfurt,38.0,1.0,2832.0,0.0,39.0,3.0,3209.0,0.0,40.0,1.0,2683.0,0.0,12.0,0.0,761.0,0.0,Bundesliga
+Dominik Kohr,26,"1,83 m",Germany,midfield - Central Midfield,right,Eintracht Frankfurt,32.0,2.0,2072.0,0.0,25.0,2.0,1450.0,0.0,40.0,1.0,2294.0,0.0,8.0,0.0,337.0,0.0,Bundesliga
+Sebastian Rode,30,"1,79 m",Germany,midfield - Central Midfield,right,Eintracht Frankfurt,1.0,0.0,74.0,0.0,22.0,1.0,1690.0,0.0,43.0,3.0,3065.0,0.0,13.0,1.0,922.0,0.0,Bundesliga
+Marijan Cavar,22,"1,84 m",Bosnia-Herzegovina  Croatia,midfield - Central Midfield,right,Eintracht Frankfurt,19.0,0.0,1115.0,0.0,16.0,0.0,964.0,0.0,0.0,0.0,0.0,0.0,,,,,Bundesliga
+Filip Kostic,28,"1,84 m",Serbia,midfield - Left Midfield,left,Eintracht Frankfurt,30.0,5.0,2412.0,0.0,46.0,10.0,3994.0,0.0,51.0,12.0,4570.0,0.0,11.0,0.0,826.0,0.0,Bundesliga
+Steven Zuber,29,"1,82 m",Switzerland,midfield - Left Midfield,right,Eintracht Frankfurt,27.0,1.0,1913.0,0.0,28.0,6.0,1862.0,0.0,16.0,2.0,911.0,0.0,10.0,0.0,521.0,0.0,Bundesliga
+Daichi Kamada,24,"1,80 m",Japan,midfield - Attacking Midfield,right,Eintracht Frankfurt,4.0,0.0,218.0,0.0,36.0,16.0,2977.0,0.0,48.0,10.0,3381.0,0.0,15.0,2.0,1146.0,0.0,Bundesliga
+Aymen Barkok,22,"1,88 m",Morocco  Germany,midfield - Attacking Midfield,right,Eintracht Frankfurt,10.0,0.0,354.0,0.0,16.0,1.0,841.0,0.0,11.0,4.0,736.0,0.0,15.0,2.0,518.0,0.0,Bundesliga
+Ajdin Hrustic,24,"1,83 m",Australia  Bosnia-Herzegovina,midfield - Attacking Midfield,left,Eintracht Frankfurt,24.0,5.0,1511.0,0.0,21.0,0.0,1118.0,0.0,28.0,4.0,2117.0,0.0,2.0,0.0,97.0,0.0,Bundesliga
+Amin Younes,27,"1,68 m",Germany  Lebanon,attack - Left Winger,right,Eintracht Frankfurt,18.0,3.0,1272.0,0.0,16.0,3.0,545.0,0.0,11.0,1.0,180.0,0.0,9.0,1.0,443.0,0.0,Bundesliga
+André Silva,25,"1,84 m",Portugal,attack - Centre-Forward,right,Eintracht Frankfurt,40.0,10.0,2025.0,0.0,40.0,11.0,2839.0,0.0,38.0,16.0,2563.0,0.0,15.0,12.0,1276.0,0.0,Bundesliga
+Ragnar Ache,22,"1,82 m",Germany  Ghana,attack - Centre-Forward,right,Eintracht Frankfurt,34.0,5.0,1656.0,0.0,23.0,8.0,1372.0,0.0,21.0,5.0,1497.0,0.0,2.0,0.0,34.0,0.0,Bundesliga
+Jabez Makanda,19,"1,86 m",Angola  Germany,attack - Centre-Forward,right,Eintracht Frankfurt,25.0,22.0,1792.0,0.0,24.0,3.0,1365.0,0.0,15.0,6.0,842.0,0.0,,,,,Bundesliga
+Frederik Rönnow,28,"1,90 m",Denmark,Goalkeeper,right,FC Schalke 04,42.0,0.0,3810.0,0.0,6.0,0.0,512.0,0.0,15.0,0.0,1350.0,0.0,7.0,0.0,584.0,0.0,Bundesliga
+Ralf Fährmann,32,"1,97 m",Germany,Goalkeeper,right,FC Schalke 04,39.0,0.0,3465.0,0.0,25.0,0.0,2189.0,0.0,3.0,0.0,202.0,0.0,10.0,0.0,855.0,0.0,Bundesliga
+Michael Langer,36,"1,95 m",Austria,Goalkeeper,right,FC Schalke 04,2.0,0.0,180.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,90.0,0.0,Bundesliga
+Ozan Kabak,20,"1,86 m",Turkey,Defender - Centre-Back,right,FC Schalke 04,1.0,0.0,0.0,0.0,34.0,3.0,2974.0,0.0,28.0,3.0,1938.0,0.0,10.0,0.0,885.0,0.0,Bundesliga
+Matija Nastasic,27,"1,88 m",Serbia,Defender - Centre-Back,left,FC Schalke 04,27.0,0.0,2259.0,0.0,37.0,1.0,3290.0,0.0,20.0,0.0,1664.0,0.0,12.0,0.0,971.0,0.0,Bundesliga
+Salif Sané,30,"1,96 m",Senegal  France,Defender - Centre-Back,right,FC Schalke 04,34.0,4.0,3060.0,0.0,40.0,4.0,3543.0,0.0,16.0,2.0,1215.0,0.0,10.0,0.0,808.0,0.0,Bundesliga
+Benjamin Stambouli,30,"1,80 m",France  Algeria,Defender - Centre-Back,right,FC Schalke 04,32.0,0.0,2508.0,0.0,27.0,0.0,2314.0,0.0,10.0,0.0,900.0,0.0,12.0,0.0,975.0,0.0,Bundesliga
+Malick Thiaw,19,"1,95 m",Finland,Defender - Centre-Back,both,FC Schalke 04,23.0,2.0,1513.0,0.0,35.0,0.0,2997.0,0.0,27.0,9.0,2126.0,0.0,12.0,1.0,879.0,0.0,Bundesliga
+Timo Becker,23,"1,86 m",Germany,Defender - Centre-Back,right,FC Schalke 04,30.0,2.0,2587.0,0.0,33.0,2.0,2577.0,0.0,27.0,3.0,1888.0,0.0,11.0,0.0,852.0,0.0,Bundesliga
+Sead Kolasinac,27,"1,83 m",Bosnia-Herzegovina  Germany,Defender - Left-Back,left,FC Schalke 04,36.0,5.0,2623.0,0.0,36.0,0.0,2789.0,0.0,32.0,0.0,2044.0,0.0,10.0,0.0,817.0,0.0,Bundesliga
+Hamza Mendyl,23,"1,79 m",Morocco  Cote d'Ivoire,Defender - Left-Back,left,FC Schalke 04,14.0,0.0,1031.0,0.0,16.0,0.0,1001.0,0.0,20.0,1.0,1577.0,0.0,4.0,0.0,157.0,0.0,Bundesliga
+Bastian Oczipka,31,"1,85 m",Germany,Defender - Left-Back,left,FC Schalke 04,33.0,0.0,2679.0,0.0,25.0,1.0,2236.0,0.0,38.0,0.0,3404.0,0.0,16.0,0.0,1297.0,0.0,Bundesliga
+Kilian Ludewig,20,"1,75 m",Germany,Defender - Right-Back,right,FC Schalke 04,19.0,2.0,1392.0,0.0,18.0,1.0,1547.0,0.0,28.0,0.0,2101.0,0.0,15.0,0.0,1190.0,0.0,Bundesliga
+Omar Mascarell,27,"1,81 m",Spain,midfield - Defensive Midfield,right,FC Schalke 04,12.0,2.0,1017.0,0.0,19.0,0.0,1329.0,0.0,26.0,0.0,2329.0,0.0,15.0,0.0,1123.0,0.0,Bundesliga
+Suat Serdar,23,"1,84 m",Germany  Turkey,midfield - Central Midfield,right,FC Schalke 04,28.0,3.0,1875.0,0.0,35.0,2.0,2418.0,0.0,22.0,7.0,1684.0,0.0,11.0,1.0,849.0,0.0,Bundesliga
+Nabil Bentaleb,26,"1,87 m",Algeria  France,midfield - Central Midfield,left,FC Schalke 04,19.0,4.0,1246.0,0.0,34.0,8.0,2381.0,0.0,17.0,0.0,1174.0,0.0,8.0,0.0,539.0,0.0,Bundesliga
+Nassim Boujellab,21,"1,82 m",Morocco  Germany,midfield - Central Midfield,both,FC Schalke 04,25.0,7.0,1910.0,0.0,30.0,14.0,2354.0,0.0,21.0,3.0,1241.0,0.0,9.0,3.0,641.0,0.0,Bundesliga
+Alessandro Schöpf,26,"1,78 m",Austria,midfield - Right Midfield,right,FC Schalke 04,20.0,1.0,1157.0,0.0,21.0,2.0,1399.0,0.0,27.0,1.0,1843.0,0.0,13.0,2.0,769.0,0.0,Bundesliga
+Kerim Calhanoglu,18,"1,80 m",Germany  Turkey,midfield - Left Midfield,left,FC Schalke 04,11.0,3.0,667.0,0.0,26.0,6.0,1906.0,0.0,19.0,2.0,1445.0,0.0,5.0,1.0,449.0,0.0,Bundesliga
+Amine Harit,23,"1,80 m",Morocco  France,midfield - Attacking Midfield,right,FC Schalke 04,35.0,3.0,2364.0,0.0,25.0,1.0,1431.0,0.0,28.0,7.0,2408.0,0.0,12.0,1.0,729.0,0.0,Bundesliga
+Can Bozdogan,19,"1,75 m",Germany  Turkey,midfield - Attacking Midfield,left,FC Schalke 04,22.0,7.0,1601.0,0.0,24.0,1.0,1747.0,0.0,19.0,4.0,1594.0,0.0,10.0,0.0,475.0,0.0,Bundesliga
+Levent Mercan,20,"1,76 m",Germany,midfield - Attacking Midfield,both,FC Schalke 04,28.0,5.0,1892.0,0.0,35.0,7.0,3113.0,0.0,11.0,1.0,575.0,0.0,10.0,1.0,825.0,0.0,Bundesliga
+Benito Raman,26,"1,72 m",Belgium,attack - Left Winger,right,FC Schalke 04,30.0,10.0,1753.0,0.0,32.0,11.0,1769.0,0.0,28.0,7.0,1778.0,0.0,15.0,5.0,820.0,0.0,Bundesliga
+Steven Skrzybski,28,"1,74 m",Germany,attack - Right Winger,right,FC Schalke 04,31.0,14.0,2357.0,0.0,16.0,3.0,756.0,0.0,17.0,4.0,936.0,0.0,11.0,0.0,545.0,0.0,Bundesliga
+Mark Uth,29,"1,85 m",Germany,attack - Second Striker,left,FC Schalke 04,38.0,17.0,2568.0,0.0,29.0,4.0,2113.0,0.0,25.0,5.0,1666.0,0.0,11.0,2.0,897.0,0.0,Bundesliga
+Gonçalo Paciência,26,"1,84 m",Portugal,attack - Centre-Forward,right,FC Schalke 04,36.0,10.0,2070.0,0.0,18.0,5.0,461.0,0.0,43.0,10.0,2231.0,0.0,9.0,1.0,587.0,0.0,Bundesliga
+Ahmed Kutucu,20,"1,81 m",Turkey  Germany,attack - Centre-Forward,right,FC Schalke 04,26.0,12.0,2053.0,0.0,40.0,20.0,2546.0,0.0,28.0,3.0,742.0,0.0,9.0,1.0,236.0,0.0,Bundesliga
+Luca Schuler,21,"1,90 m",Germany,attack - Centre-Forward,right,FC Schalke 04 II,2.0,0.0,112.0,0.0,8.0,0.0,130.0,0.0,11.0,3.0,645.0,0.0,18.0,3.0,1212.0,0.0,Bundesliga
+Matthew Hoppe,19,"1,91 m",United States,attack - Centre-Forward,right,FC Schalke 04,,,,,,,,,20.0,5.0,1280.0,0.0,22.0,4.0,641.0,0.0,Bundesliga
+Florian Müller,23,"1,92 m",Germany,Goalkeeper,left,SC Freiburg,13.0,0.0,1170.0,0.0,25.0,0.0,2280.0,0.0,15.0,0.0,1304.0,0.0,15.0,0.0,1350.0,0.0,Bundesliga
+Mark Flekken,27,"1,94 m",Netherlands,Goalkeeper,both,SC Freiburg,32.0,0.0,2835.0,0.0,1.0,0.0,90.0,0.0,11.0,0.0,990.0,0.0,,,,,Bundesliga
+Benjamin Uphoff,27,"1,91 m",Germany,Goalkeeper,right,SC Freiburg,41.0,0.0,3720.0,0.0,40.0,0.0,3570.0,0.0,35.0,0.0,3180.0,0.0,2.0,0.0,180.0,0.0,Bundesliga
+Niclas Thiede,21,"1,86 m",Germany,Goalkeeper,both,SC Freiburg,16.0,0.0,1470.0,0.0,19.0,0.0,1710.0,0.0,8.0,0.0,698.0,0.0,5.0,0.0,450.0,0.0,Bundesliga
+Philipp Lienhart,24,"1,89 m",Austria,Defender - Centre-Back,right,SC Freiburg,14.0,0.0,1137.0,0.0,16.0,0.0,709.0,0.0,24.0,0.0,1946.0,0.0,17.0,3.0,1530.0,0.0,Bundesliga
+Dominique Heintz,27,"1,88 m",Germany,Defender - Centre-Back,left,SC Freiburg,38.0,1.0,3420.0,0.0,36.0,1.0,3264.0,0.0,30.0,0.0,2644.0,0.0,12.0,0.0,917.0,0.0,Bundesliga
+Keven Schlotterbeck,23,"1,89 m",Germany,Defender - Centre-Back,left,SC Freiburg,35.0,3.0,3099.0,0.0,20.0,0.0,1762.0,0.0,27.0,1.0,2303.0,0.0,11.0,0.0,934.0,0.0,Bundesliga
+Manuel Gulde,29,"1,84 m",Germany,Defender - Centre-Back,right,SC Freiburg,17.0,1.0,1530.0,0.0,22.0,1.0,1798.0,0.0,18.0,1.0,1417.0,0.0,11.0,1.0,755.0,0.0,Bundesliga
+Christian Günter,27,"1,85 m",Germany,Defender - Left-Back,left,SC Freiburg,39.0,1.0,3510.0,0.0,34.0,0.0,3090.0,0.0,36.0,2.0,3241.0,0.0,17.0,0.0,1530.0,0.0,Bundesliga
+Luca Itter,22,"1,83 m",Germany,Defender - Left-Back,left,SC Freiburg,9.0,1.0,774.0,0.0,18.0,0.0,1509.0,0.0,11.0,0.0,729.0,0.0,2.0,0.0,157.0,0.0,Bundesliga
+Jonathan Schmid,30,"1,80 m",France,Defender - Right-Back,right,SC Freiburg,26.0,0.0,1557.0,0.0,29.0,3.0,2640.0,0.0,35.0,5.0,3050.0,0.0,16.0,1.0,1296.0,0.0,Bundesliga
+Lukas Kübler,28,"1,81 m",Germany,Defender - Right-Back,right,SC Freiburg,16.0,0.0,1241.0,0.0,16.0,0.0,1186.0,0.0,7.0,1.0,390.0,0.0,8.0,0.0,331.0,0.0,Bundesliga
+Baptiste Santamaria,25,"1,83 m",France,midfield - Defensive Midfield,right,SC Freiburg,33.0,0.0,2732.0,0.0,40.0,1.0,3457.0,0.0,30.0,1.0,2716.0,0.0,18.0,1.0,1545.0,0.0,Bundesliga
+Nicolas Höfler,30,"1,81 m",Germany,midfield - Defensive Midfield,right,SC Freiburg,31.0,1.0,2612.0,0.0,21.0,0.0,1916.0,0.0,33.0,1.0,2905.0,0.0,17.0,1.0,1469.0,0.0,Bundesliga
+Amir Abrashi,30,"1,72 m",Albania  Switzerland,midfield - Defensive Midfield,right,SC Freiburg,15.0,0.0,1037.0,0.0,10.0,0.0,790.0,0.0,14.0,0.0,752.0,0.0,4.0,0.0,6.0,0.0,Bundesliga
+Yannik Keitel,20,"1,86 m",Germany,midfield - Defensive Midfield,both,SC Freiburg,20.0,5.0,1570.0,0.0,16.0,1.0,930.0,0.0,20.0,2.0,1326.0,0.0,4.0,1.0,306.0,0.0,Bundesliga
+Carlo Boukhalfa,21,"1,85 m",Germany  Algeria,midfield - Defensive Midfield,left,SC Freiburg II,26.0,10.0,2084.0,0.0,15.0,0.0,209.0,0.0,23.0,6.0,1825.0,0.0,6.0,0.0,494.0,0.0,Bundesliga
+Janik Haberer,26,"1,86 m",Germany,midfield - Central Midfield,right,SC Freiburg,38.0,4.0,3030.0,0.0,28.0,1.0,2428.0,0.0,28.0,2.0,1857.0,0.0,,,,,Bundesliga
+Lino Tempelmann,21,"1,74 m",Germany,midfield - Central Midfield,right,SC Freiburg,16.0,2.0,1183.0,0.0,8.0,0.0,541.0,0.0,7.0,0.0,569.0,0.0,10.0,0.0,475.0,0.0,Bundesliga
+Guus Til,23,"1,86 m",Netherlands,midfield - Attacking Midfield,right,SC Freiburg,39.0,11.0,3340.0,0.0,39.0,15.0,3520.0,0.0,23.0,2.0,1346.0,0.0,7.0,1.0,178.0,0.0,Bundesliga
+Vincenzo Grifo,27,"1,80 m",Italy  Germany,attack - Left Winger,right,SC Freiburg,18.0,0.0,793.0,0.0,26.0,7.0,1881.0,0.0,29.0,4.0,1769.0,0.0,17.0,7.0,1271.0,0.0,Bundesliga
+Roland Sallai,23,"1,82 m",Hungary,attack - Right Winger,both,SC Freiburg,36.0,9.0,2464.0,0.0,17.0,3.0,1072.0,0.0,23.0,2.0,1293.0,0.0,15.0,4.0,867.0,0.0,Bundesliga
+Chang-hoon Kwon,26,"1,73 m","Korea, South",attack - Right Winger,left,SC Freiburg,36.0,11.0,2291.0,0.0,24.0,4.0,1167.0,0.0,23.0,2.0,665.0,0.0,10.0,1.0,270.0,0.0,Bundesliga
+Woo-yeong Jeong,21,"1,79 m","Korea, South",attack - Right Winger,right,SC Freiburg,5.0,1.0,441.0,0.0,33.0,13.0,2529.0,0.0,22.0,3.0,1585.0,0.0,13.0,1.0,407.0,0.0,Bundesliga
+Nils Petersen,32,"1,88 m",Germany,attack - Centre-Forward,right,SC Freiburg,37.0,19.0,2639.0,0.0,26.0,12.0,2138.0,0.0,36.0,11.0,2606.0,0.0,17.0,5.0,858.0,0.0,Bundesliga
+Lucas Höler,26,"1,84 m",Germany,attack - Centre-Forward,right,SC Freiburg,31.0,9.0,2394.0,0.0,28.0,4.0,1049.0,0.0,36.0,8.0,2582.0,0.0,17.0,2.0,1094.0,0.0,Bundesliga
+Ermedin Demirovic,22,"1,85 m",Bosnia-Herzegovina  Germany,attack - Centre-Forward,right,SC Freiburg,6.0,4.0,372.0,0.0,30.0,4.0,1699.0,0.0,28.0,14.0,2266.0,0.0,14.0,2.0,427.0,0.0,Bundesliga
+Jiri Pavlenka,28,"1,96 m",Czech Republic,Goalkeeper,right,SV Werder Bremen,38.0,0.0,3450.0,0.0,39.0,0.0,3458.0,0.0,39.0,0.0,3510.0,0.0,17.0,0.0,1530.0,0.0,Bundesliga
+Stefanos Kapino,26,"1,96 m",Greece,Goalkeeper,right,SV Werder Bremen,16.0,0.0,1440.0,0.0,1.0,0.0,44.0,0.0,1.0,0.0,90.0,0.0,0.0,0.0,0.0,0.0,Bundesliga
+Eduardo dos Santos Haesler,21,"1,96 m",Germany  Brazil,Goalkeeper,right,SV Werder Bremen,23.0,0.0,2070.0,0.0,20.0,0.0,1800.0,0.0,1.0,0.0,90.0,0.0,7.0,0.0,630.0,0.0,Bundesliga
+Marco Friedl,22,"1,87 m",Austria,Defender - Centre-Back,left,SV Werder Bremen,22.0,1.0,1700.0,0.0,9.0,0.0,682.0,0.0,32.0,2.0,2577.0,0.0,15.0,0.0,1350.0,0.0,Bundesliga
+Milos Veljkovic,25,"1,88 m",Serbia  Switzerland,Defender - Centre-Back,both,SV Werder Bremen,34.0,2.0,3045.0,0.0,27.0,1.0,2264.0,0.0,28.0,0.0,2393.0,0.0,9.0,0.0,674.0,0.0,Bundesliga
+Ömer Toprak,31,"1,87 m",Turkey  Germany,Defender - Centre-Back,right,SV Werder Bremen,36.0,0.0,2715.0,0.0,14.0,0.0,770.0,0.0,13.0,0.0,898.0,0.0,12.0,1.0,851.0,0.0,Bundesliga
+Niklas Moisander,35,"1,83 m",Finland,Defender - Centre-Back,left,SV Werder Bremen,28.0,2.0,2550.0,0.0,34.0,0.0,3029.0,0.0,26.0,1.0,2337.0,0.0,8.0,0.0,559.0,0.0,Bundesliga
+Ludwig Augustinsson,26,"1,81 m",Sweden,Defender - Left-Back,left,SV Werder Bremen,33.0,1.0,2922.0,0.0,39.0,1.0,3499.0,0.0,15.0,1.0,1117.0,0.0,14.0,0.0,1201.0,0.0,Bundesliga
+Felix Agu,21,"1,80 m",Germany  Nigeria,Defender - Right-Back,right,SV Werder Bremen,24.0,2.0,1991.0,0.0,15.0,2.0,1070.0,0.0,29.0,0.0,2272.0,0.0,4.0,0.0,91.0,0.0,Bundesliga
+Theodor Gebre Selassie,34,"1,81 m",Czech Republic  Ethiopia,Defender - Right-Back,right,SV Werder Bremen,36.0,3.0,3218.0,0.0,36.0,3.0,3199.0,0.0,32.0,2.0,2789.0,0.0,17.0,1.0,1530.0,0.0,Bundesliga
+Patrick Erras,25,"1,96 m",Germany,midfield - Defensive Midfield,right,SV Werder Bremen,25.0,1.0,1790.0,0.0,19.0,0.0,1217.0,0.0,23.0,3.0,1545.0,0.0,4.0,0.0,81.0,0.0,Bundesliga
+Christian Groß,31,"1,82 m",Germany,midfield - Defensive Midfield,both,SV Werder Bremen,39.0,1.0,3464.0,0.0,30.0,9.0,2700.0,0.0,18.0,0.0,1075.0,0.0,14.0,0.0,975.0,0.0,Bundesliga
+Ilia Gruev,20,"1,85 m",Bulgaria  Germany,midfield - Defensive Midfield,left,SV Werder Bremen,29.0,1.0,2640.0,0.0,26.0,4.0,2330.0,0.0,15.0,2.0,1205.0,0.0,5.0,0.0,338.0,0.0,Bundesliga
+Maximilian Eggestein,24,"1,81 m",Germany,midfield - Central Midfield,right,SV Werder Bremen,37.0,3.0,3018.0,0.0,39.0,6.0,3522.0,0.0,38.0,1.0,3396.0,0.0,17.0,2.0,1530.0,0.0,Bundesliga
+Jean Manuel Mbom,20,"1,83 m",Germany  Cameroon,midfield - Central Midfield,right,SV Werder Bremen,13.0,2.0,1080.0,0.0,23.0,1.0,1870.0,0.0,30.0,1.0,2281.0,0.0,13.0,1.0,855.0,0.0,Bundesliga
+Kevin Möhwald,27,"1,83 m",Germany,midfield - Central Midfield,right,SV Werder Bremen,34.0,7.0,2710.0,0.0,27.0,3.0,996.0,0.0,2.0,0.0,117.0,0.0,11.0,2.0,593.0,0.0,Bundesliga
+Leonardo Bittencourt,27,"1,71 m",Germany  Brazil,midfield - Attacking Midfield,right,SV Werder Bremen,28.0,6.0,1968.0,0.0,26.0,1.0,1324.0,0.0,33.0,6.0,2125.0,0.0,14.0,3.0,930.0,0.0,Bundesliga
+Romano Schmid,20,"1,68 m",Austria,midfield - Attacking Midfield,right,SV Werder Bremen,36.0,10.0,2575.0,0.0,18.0,2.0,928.0,0.0,33.0,3.0,2642.0,0.0,7.0,0.0,330.0,0.0,Bundesliga
+Milot Rashica,24,"1,77 m",Kosovo  Albania,attack - Left Winger,right,SV Werder Bremen,37.0,4.0,2757.0,0.0,30.0,12.0,1812.0,0.0,34.0,11.0,2791.0,0.0,5.0,0.0,279.0,0.0,Bundesliga
+Oscar Schönfelder,19,"1,81 m",Germany,attack - Left Winger,left,SV Werder Bremen,17.0,13.0,1213.0,0.0,20.0,8.0,1194.0,0.0,20.0,7.0,1691.0,0.0,6.0,0.0,87.0,0.0,Bundesliga
+Tahith Chong,21,"1,85 m",Netherlands  Curacao,attack - Right Winger,left,SV Werder Bremen,18.0,8.0,1501.0,0.0,27.0,8.0,2077.0,0.0,22.0,7.0,1336.0,0.0,15.0,1.0,499.0,0.0,Bundesliga
+Yuya Osako,30,"1,82 m",Japan,attack - Second Striker,right,SV Werder Bremen,32.0,6.0,2273.0,0.0,23.0,5.0,1504.0,0.0,34.0,9.0,2209.0,0.0,12.0,0.0,541.0,0.0,Bundesliga
+Nick Woltemade,18,"1,98 m",Germany,attack - Second Striker,right,SV Werder Bremen,9.0,2.0,354.0,0.0,25.0,18.0,1943.0,0.0,25.0,18.0,1755.0,0.0,8.0,0.0,162.0,0.0,Bundesliga
+Josh Sargent,20,"1,85 m",United States,attack - Centre-Forward,right,SV Werder Bremen,,,,,22.0,9.0,1267.0,0.0,34.0,4.0,1712.0,0.0,16.0,3.0,1361.0,0.0,Bundesliga
+Davie Selke,25,"1,94 m",Germany,attack - Centre-Forward,right,SV Werder Bremen,31.0,14.0,2214.0,0.0,32.0,4.0,1850.0,0.0,34.0,2.0,1615.0,0.0,9.0,2.0,318.0,0.0,Bundesliga
+Niclas Füllkrug,27,"1,89 m",Germany,attack - Centre-Forward,right,SV Werder Bremen,36.0,16.0,2489.0,0.0,15.0,3.0,1194.0,0.0,11.0,4.0,504.0,0.0,8.0,4.0,323.0,0.0,Bundesliga
+Eren Dinkci,19,"1,88 m",Germany  Turkey,attack - Centre-Forward,right,SV Werder Bremen II,,,,,,,,,23.0,24.0,2068.0,0.0,10.0,8.0,709.0,0.0,Bundesliga
+Tomas Koubek,28,"1,97 m",Czech Republic,Goalkeeper,right,FC Augsburg,38.0,0.0,3420.0,0.0,48.0,0.0,4364.0,0.0,26.0,0.0,2340.0,0.0,0.0,0.0,0.0,0.0,Bundesliga
+Rafal Gikiewicz,33,"1,90 m",Poland,Goalkeeper,right,FC Augsburg,3.0,0.0,243.0,0.0,38.0,1.0,3450.0,0.0,37.0,0.0,3330.0,0.0,16.0,0.0,1440.0,0.0,Bundesliga
+Benjamin Leneis,21,"1,95 m",Germany,Goalkeeper,both,FC Augsburg,22.0,0.0,1980.0,0.0,10.0,0.0,900.0,0.0,0.0,0.0,0.0,0.0,12.0,0.0,1035.0,0.0,Bundesliga
+Felix Uduokhai,23,"1,92 m",Germany  Nigeria,Defender - Centre-Back,left,FC Augsburg,24.0,3.0,2001.0,0.0,12.0,0.0,235.0,0.0,27.0,0.0,1991.0,0.0,16.0,1.0,1440.0,0.0,Bundesliga
+Jeffrey Gouweleeuw,29,"1,87 m",Netherlands,Defender - Centre-Back,right,FC Augsburg,28.0,0.0,2475.0,0.0,28.0,0.0,2422.0,0.0,21.0,0.0,1642.0,0.0,16.0,1.0,1440.0,0.0,Bundesliga
+Marek Suchy,32,"1,83 m",Czech Republic,Defender - Centre-Back,right,FC Augsburg,44.0,1.0,3722.0,0.0,25.0,2.0,2084.0,0.0,8.0,0.0,485.0,0.0,2.0,0.0,90.0,0.0,Bundesliga
+Felix Götze,22,"1,85 m",Germany,Defender - Centre-Back,right,FC Augsburg,24.0,4.0,1967.0,0.0,9.0,1.0,202.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,267.0,0.0,Bundesliga
+Iago,23,"1,81 m",Brazil  Italy,Defender - Left-Back,left,FC Augsburg,35.0,0.0,3115.0,0.0,11.0,0.0,990.0,0.0,10.0,1.0,671.0,0.0,12.0,1.0,1068.0,0.0,Bundesliga
+Mads Pedersen,24,"1,74 m",Denmark,Defender - Left-Back,left,FC Augsburg,25.0,3.0,2104.0,0.0,28.0,0.0,2207.0,0.0,5.0,0.0,283.0,0.0,1.0,0.0,90.0,0.0,Bundesliga
+Robert Gumny,22,"1,78 m",Poland,Defender - Right-Back,right,FC Augsburg,38.0,0.0,3280.0,0.0,21.0,1.0,1890.0,0.0,24.0,2.0,1969.0,0.0,13.0,0.0,684.0,0.0,Bundesliga
+Raphael Framberger,25,"1,79 m",Germany,Defender - Right-Back,right,FC Augsburg,12.0,0.0,893.0,0.0,8.0,0.0,667.0,0.0,18.0,0.0,1171.0,0.0,12.0,0.0,896.0,0.0,Bundesliga
+Rani Khedira,26,"1,88 m",Germany  Tunisia,midfield - Defensive Midfield,right,FC Augsburg,31.0,1.0,2370.0,0.0,34.0,4.0,3022.0,0.0,33.0,0.0,2680.0,0.0,14.0,0.0,1007.0,0.0,Bundesliga
+Carlos Gruezo,25,"1,71 m",Ecuador,midfield - Defensive Midfield,right,FC Augsburg,35.0,3.0,2850.0,0.0,9.0,1.0,784.0,0.0,12.0,0.0,978.0,0.0,15.0,0.0,1056.0,0.0,Bundesliga
+Tobias Strobl,30,"1,88 m",Germany,midfield - Defensive Midfield,right,FC Augsburg,4.0,0.0,113.0,0.0,30.0,0.0,2385.0,0.0,12.0,0.0,793.0,0.0,16.0,0.0,899.0,0.0,Bundesliga
+Reece Oxford,22,"1,90 m",England  Jamaica,midfield - Defensive Midfield,right,FC Augsburg,11.0,0.0,666.0,0.0,24.0,3.0,1913.0,0.0,12.0,0.0,367.0,0.0,8.0,0.0,303.0,0.0,Bundesliga
+Jan Morávek,31,"1,80 m",Czech Republic,midfield - Central Midfield,right,FC Augsburg,16.0,0.0,699.0,0.0,14.0,0.0,834.0,0.0,11.0,0.0,467.0,0.0,,,,,Bundesliga
+Tim Civeja,19,"1,80 m",Germany  Albania,midfield - Central Midfield,both,FC Augsburg II,1.0,0.0,39.0,0.0,27.0,5.0,1983.0,0.0,19.0,5.0,1629.0,0.0,0.0,0.0,0.0,0.0,Bundesliga
+Daniel Caligiuri,32,"1,82 m",Italy  Germany,midfield - Right Midfield,right,FC Augsburg,37.0,6.0,3187.0,0.0,40.0,7.0,3516.0,0.0,30.0,4.0,2466.0,0.0,16.0,5.0,1411.0,0.0,Bundesliga
+Fredrik Jensen,23,"1,83 m",Finland,midfield - Attacking Midfield,right,FC Augsburg,34.0,5.0,2845.0,0.0,9.0,0.0,294.0,0.0,11.0,1.0,477.0,0.0,6.0,2.0,193.0,0.0,Bundesliga
+Ruben Vargas,22,"1,74 m",Switzerland  Dominican Republic,attack - Left Winger,right,FC Augsburg,29.0,7.0,1713.0,0.0,38.0,10.0,2606.0,0.0,33.0,6.0,2538.0,0.0,15.0,4.0,944.0,0.0,Bundesliga
+Dion Berisha,17,"1,81 m",Kosovo  Germany,attack - Left Winger,,FC Augsburg U19,,,,,25.0,6.0,1366.0,0.0,23.0,7.0,1353.0,0.0,6.0,5.0,389.0,0.0,Bundesliga
+Marco Richter,23,"1,76 m",Germany,attack - Right Winger,right,FC Augsburg,26.0,10.0,1830.0,0.0,29.0,5.0,1731.0,0.0,32.0,4.0,2374.0,0.0,11.0,2.0,477.0,0.0,Bundesliga
+André Hahn,30,"1,85 m",Germany,attack - Right Winger,right,FC Augsburg,24.0,3.0,1441.0,0.0,32.0,5.0,2381.0,0.0,16.0,2.0,788.0,0.0,11.0,4.0,588.0,0.0,Bundesliga
+Noah Sarenren Bazee,24,"1,83 m",Nigeria  Germany,attack - Right Winger,right,FC Augsburg,7.0,0.0,110.0,0.0,6.0,1.0,402.0,0.0,10.0,1.0,378.0,0.0,3.0,0.0,134.0,0.0,Bundesliga
+Michael Gregoritsch,26,"1,93 m",Austria,attack - Second Striker,left,FC Augsburg,33.0,13.0,2607.0,0.0,36.0,8.0,2912.0,0.0,23.0,1.0,1324.0,0.0,16.0,1.0,815.0,0.0,Bundesliga
+Florian Niederlechner,30,"1,87 m",Germany,attack - Centre-Forward,left,FC Augsburg,14.0,2.0,1049.0,0.0,26.0,4.0,1129.0,0.0,34.0,13.0,2820.0,0.0,14.0,1.0,884.0,0.0,Bundesliga
+Alfred Finnbogason,31,"1,84 m",Iceland,attack - Centre-Forward,right,FC Augsburg,23.0,12.0,1916.0,0.0,20.0,11.0,1431.0,0.0,21.0,3.0,964.0,0.0,10.0,1.0,369.0,0.0,Bundesliga
+Julian Schieber,31,"1,86 m",Germany,attack - Centre-Forward,left,FC Augsburg,4.0,1.0,143.0,0.0,9.0,1.0,255.0,0.0,3.0,0.0,44.0,0.0,,,,,Bundesliga
+Seong-hoon Cheon,20,"1,90 m","Korea, South",attack - Centre-Forward,,FC Augsburg II,,,,,11.0,0.0,894.0,0.0,,,,,14.0,4.0,561.0,0.0,Bundesliga
+Gregor Kobel,23,"1,94 m",Switzerland,Goalkeeper,right,VfB Stuttgart,11.0,0.0,990.0,0.0,25.0,0.0,2230.0,0.0,31.0,0.0,2722.0,0.0,15.0,0.0,1350.0,0.0,Bundesliga
+Fabian Bredlow,25,"1,90 m",Germany,Goalkeeper,both,VfB Stuttgart,24.0,0.0,2190.0,0.0,14.0,0.0,1246.0,0.0,7.0,0.0,638.0,0.0,1.0,0.0,90.0,0.0,Bundesliga
+Jens Grahl,32,"1,92 m",Germany,Goalkeeper,right,VfB Stuttgart,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Bundesliga
+Waldemar Anton,24,"1,89 m",Germany  Uzbekistan,Defender - Centre-Back,right,VfB Stuttgart,29.0,1.0,2458.0,0.0,36.0,1.0,3240.0,0.0,31.0,0.0,2780.0,0.0,13.0,0.0,1097.0,0.0,Bundesliga
+Marc Oliver Kempf,25,"1,86 m",Germany,Defender - Centre-Back,left,VfB Stuttgart,14.0,0.0,1018.0,0.0,24.0,2.0,2115.0,0.0,23.0,2.0,1789.0,0.0,16.0,2.0,1367.0,0.0,Bundesliga
+Konstantinos Mavropanos,23,"1,94 m",Greece,Defender - Centre-Back,right,VfB Stuttgart,24.0,3.0,2004.0,0.0,6.0,0.0,310.0,0.0,23.0,0.0,1924.0,0.0,6.0,0.0,329.0,0.0,Bundesliga
+Marcin Kaminski,28,"1,92 m",Poland,Defender - Centre-Back,left,VfB Stuttgart,25.0,0.0,1339.0,0.0,27.0,0.0,2430.0,0.0,9.0,0.0,694.0,0.0,4.0,0.0,212.0,0.0,Bundesliga
+Maxime Awoudja,22,"1,88 m",Germany  Togo,Defender - Centre-Back,right,VfB Stuttgart,29.0,4.0,2108.0,0.0,20.0,4.0,1694.0,0.0,5.0,1.0,365.0,0.0,,,,,Bundesliga
+Antonis Aidonis,19,"1,84 m",Germany  Greece,Defender - Centre-Back,right,VfB Stuttgart,24.0,2.0,1920.0,0.0,31.0,1.0,2705.0,0.0,22.0,0.0,1916.0,0.0,6.0,0.0,467.0,0.0,Bundesliga
+Borna Sosa,22,"1,86 m",Croatia,Defender - Left-Back,left,VfB Stuttgart,23.0,0.0,1836.0,0.0,12.0,0.0,613.0,0.0,13.0,1.0,778.0,0.0,12.0,0.0,859.0,0.0,Bundesliga
+Clinton Mola,19,"1,83 m",England  DR Congo,Defender - Left-Back,left,VfB Stuttgart,19.0,2.0,939.0,0.0,22.0,1.0,1363.0,0.0,32.0,4.0,2513.0,0.0,,,,,Bundesliga
+Aílton,25,"1,81 m",Brazil,Defender - Left-Back,left,VfB Stuttgart,16.0,0.0,1096.0,0.0,4.0,0.0,289.0,0.0,28.0,3.0,2334.0,0.0,,,,,Bundesliga
+Pascal Stenzel,24,"1,83 m",Germany,Defender - Right-Back,right,VfB Stuttgart,30.0,1.0,2374.0,0.0,24.0,0.0,1737.0,0.0,37.0,0.0,3142.0,0.0,12.0,0.0,846.0,0.0,Bundesliga
+Wataru Endo,27,"1,78 m",Japan,midfield - Defensive Midfield,right,VfB Stuttgart,22.0,2.0,1899.0,0.0,28.0,2.0,1969.0,0.0,25.0,1.0,2070.0,0.0,16.0,0.0,1440.0,0.0,Bundesliga
+Atakan Karazor,24,"1,90 m",Germany,midfield - Defensive Midfield,right,VfB Stuttgart,9.0,0.0,619.0,0.0,26.0,3.0,1810.0,0.0,25.0,2.0,2022.0,0.0,8.0,0.0,513.0,0.0,Bundesliga
+Luca Mack,20,"1,86 m",Germany,midfield - Defensive Midfield,right,VfB Stuttgart,15.0,0.0,875.0,0.0,33.0,2.0,2885.0,0.0,8.0,0.0,528.0,0.0,7.0,0.0,630.0,0.0,Bundesliga
+Orel Mangala,22,"1,78 m",Belgium  DR Congo,midfield - Central Midfield,right,VfB Stuttgart,22.0,0.0,880.0,0.0,34.0,1.0,2865.0,0.0,32.0,1.0,2200.0,0.0,15.0,1.0,1347.0,0.0,Bundesliga
+Gonzalo Castro,33,"1,72 m",Germany  Spain,midfield - Central Midfield,right,VfB Stuttgart,28.0,1.0,1840.0,0.0,28.0,2.0,1892.0,0.0,31.0,3.0,2321.0,0.0,15.0,2.0,1073.0,0.0,Bundesliga
+Naouirou Ahamada,18,"1,83 m",France  Comoros,midfield - Central Midfield,right,VfB Stuttgart,,,,,27.0,5.0,1678.0,0.0,26.0,2.0,1863.0,0.0,4.0,0.0,316.0,0.0,Bundesliga
+Erik Thommy,26,"1,75 m",Germany,midfield - Left Midfield,right,VfB Stuttgart,20.0,2.0,1159.0,0.0,21.0,1.0,939.0,0.0,37.0,6.0,2514.0,0.0,,,,,Bundesliga
+Mateo Klimowicz,20,"1,79 m",Argentina  Germany,midfield - Attacking Midfield,right,VfB Stuttgart,19.0,1.0,734.0,0.0,16.0,6.0,951.0,0.0,17.0,9.0,777.0,0.0,13.0,1.0,606.0,0.0,Bundesliga
+Daniel Didavi,30,"1,80 m",Germany  Benin,midfield - Attacking Midfield,left,VfB Stuttgart,33.0,10.0,2411.0,0.0,23.0,2.0,1111.0,0.0,21.0,6.0,1609.0,0.0,11.0,1.0,669.0,0.0,Bundesliga
+Philipp Förster,25,"1,88 m",Germany,midfield - Attacking Midfield,both,VfB Stuttgart,31.0,3.0,1992.0,0.0,31.0,6.0,2554.0,0.0,34.0,4.0,2705.0,0.0,10.0,4.0,489.0,0.0,Bundesliga
+Philipp Klement,28,"1,75 m",Germany,midfield - Attacking Midfield,left,VfB Stuttgart,20.0,3.0,1374.0,0.0,35.0,16.0,3003.0,0.0,21.0,0.0,1213.0,0.0,10.0,0.0,165.0,0.0,Bundesliga
+Lilian Egloff,18,"1,82 m",Germany,midfield - Attacking Midfield,right,VfB Stuttgart,16.0,7.0,777.0,0.0,34.0,18.0,2423.0,0.0,21.0,6.0,1445.0,0.0,5.0,1.0,177.0,0.0,Bundesliga
+Nicolás González,22,"1,80 m",Argentina,attack - Left Winger,left,VfB Stuttgart,24.0,7.0,1925.0,0.0,33.0,2.0,2358.0,0.0,29.0,15.0,2077.0,0.0,10.0,4.0,580.0,0.0,Bundesliga
+Tanguy Coulibaly,19,"1,75 m",France,attack - Left Winger,left,VfB Stuttgart,,,,,7.0,1.0,368.0,0.0,10.0,0.0,558.0,0.0,15.0,2.0,727.0,0.0,Bundesliga
+Darko Churlinov,20,"1,80 m",North Macedonia,attack - Left Winger,right,VfB Stuttgart,25.0,3.0,1769.0,0.0,24.0,18.0,2021.0,0.0,17.0,7.0,984.0,0.0,6.0,0.0,99.0,0.0,Bundesliga
+Silas Wamangituka,21,"1,89 m",DR Congo,attack - Right Winger,right,VfB Stuttgart,,,,,33.0,11.0,2350.0,0.0,33.0,8.0,2020.0,0.0,15.0,8.0,1131.0,0.0,Bundesliga
+Roberto Massimo,20,"1,82 m",Germany  Italy,attack - Right Winger,right,VfB Stuttgart,26.0,5.0,2062.0,0.0,6.0,1.0,265.0,0.0,19.0,1.0,1075.0,0.0,9.0,0.0,292.0,0.0,Bundesliga
+Momo Cissé,18,"1,78 m",Guinea  France,attack - Right Winger,right,VfB Stuttgart,,,,,,,,,,,,,1.0,0.0,12.0,0.0,Bundesliga
+Sasa Kalajdzic,23,"2,00 m",Austria  Serbia,attack - Centre-Forward,left,VfB Stuttgart,20.0,4.0,1047.0,0.0,15.0,8.0,883.0,0.0,6.0,1.0,162.0,0.0,15.0,6.0,793.0,0.0,Bundesliga
+Hamadi Al Ghaddioui,30,"1,93 m",Morocco  Germany,attack - Centre-Forward,right,VfB Stuttgart,28.0,10.0,1992.0,0.0,34.0,11.0,1979.0,0.0,30.0,10.0,1465.0,0.0,4.0,0.0,34.0,0.0,Bundesliga
+Timo Horn,27,"1,92 m",Germany,Goalkeeper,left,1. FC Köln,43.0,0.0,3870.0,0.0,35.0,0.0,3180.0,0.0,36.0,0.0,3270.0,0.0,17.0,0.0,1480.0,0.0,Bundesliga
+Ron-Robert Zieler,31,"1,88 m",Germany,Goalkeeper,right,1. FC Köln,37.0,0.0,3360.0,0.0,37.0,0.0,3330.0,0.0,32.0,0.0,2880.0,0.0,1.0,0.0,50.0,0.0,Bundesliga
+Julian Krahl,20,"1,94 m",Germany,Goalkeeper,right,1. FC Köln,23.0,0.0,2100.0,0.0,23.0,0.0,2100.0,0.0,11.0,0.0,990.0,0.0,19.0,0.0,1710.0,0.0,Bundesliga
+Sebastiaan Bornauw,21,"1,91 m",Belgium,Defender - Centre-Back,right,1. FC Köln,5.0,0.0,410.0,0.0,28.0,1.0,2256.0,0.0,30.0,6.0,2659.0,0.0,16.0,0.0,1369.0,0.0,Bundesliga
+Jorge Meré,23,"1,82 m",Spain,Defender - Centre-Back,right,1. FC Köln,26.0,1.0,2204.0,0.0,28.0,0.0,2499.0,0.0,13.0,1.0,824.0,0.0,7.0,0.0,532.0,0.0,Bundesliga
+Rafael Czichos,30,"1,87 m",Germany,Defender - Centre-Back,left,1. FC Köln,35.0,3.0,3158.0,0.0,34.0,2.0,3070.0,0.0,27.0,1.0,2330.0,0.0,12.0,1.0,902.0,0.0,Bundesliga
+Frederik Sörensen,28,"1,94 m",Denmark,Defender - Centre-Back,right,1. FC Köln,35.0,3.0,2632.0,0.0,6.0,0.0,136.0,0.0,25.0,1.0,1976.0,0.0,3.0,0.0,97.0,0.0,Bundesliga
+Robert Voloder,19,"1,85 m",Germany,Defender - Centre-Back,left,1. FC Köln,26.0,1.0,1975.0,0.0,21.0,2.0,1841.0,0.0,20.0,5.0,1720.0,0.0,8.0,0.0,596.0,0.0,Bundesliga
+João Queirós,22,"1,92 m",Portugal,Defender - Centre-Back,left,1. FC Köln,14.0,0.0,843.0,0.0,0.0,0.0,0.0,0.0,12.0,0.0,1080.0,0.0,,,,,Bundesliga
+Sava-Arangel Cestic,19,"1,92 m",Serbia  Germany,Defender - Centre-Back,right,1. FC Köln,15.0,0.0,948.0,0.0,3.0,0.0,93.0,0.0,15.0,2.0,1225.0,0.0,14.0,2.0,1127.0,0.0,Bundesliga
+Noah Katterbach,19,"1,80 m",Germany,Defender - Left-Back,left,1. FC Köln,18.0,2.0,1454.0,0.0,21.0,1.0,1834.0,0.0,24.0,0.0,1858.0,0.0,11.0,0.0,577.0,0.0,Bundesliga
+Jannes Horn,23,"1,86 m",Germany,Defender - Left-Back,left,1. FC Köln,15.0,0.0,1187.0,0.0,19.0,0.0,1248.0,0.0,24.0,0.0,1761.0,0.0,14.0,0.0,867.0,0.0,Bundesliga
+Kingsley Ehizibue,25,"1,89 m",Nigeria  Netherlands,Defender - Right-Back,right,1. FC Köln,37.0,1.0,3333.0,0.0,35.0,1.0,3071.0,0.0,32.0,1.0,2448.0,0.0,9.0,0.0,368.0,0.0,Bundesliga
+Benno Schmitz,26,"1,82 m",Germany,Defender - Right-Back,right,1. FC Köln,2.0,0.0,82.0,0.0,16.0,0.0,1322.0,0.0,20.0,0.0,1348.0,0.0,6.0,0.0,135.0,0.0,Bundesliga
+Ellyes Skhiri,25,"1,85 m",Tunisia  France,midfield - Defensive Midfield,right,1. FC Köln,41.0,4.0,3621.0,0.0,38.0,3.0,3181.0,0.0,33.0,1.0,2764.0,0.0,16.0,3.0,1376.0,0.0,Bundesliga
+Jonas Hector,30,"1,85 m",Germany,midfield - Defensive Midfield,left,1. FC Köln,22.0,2.0,1886.0,0.0,31.0,6.0,2801.0,0.0,31.0,5.0,2645.0,0.0,8.0,1.0,395.0,0.0,Bundesliga
+Marco Höger,31,"1,82 m",Germany,midfield - Defensive Midfield,right,1. FC Köln,26.0,0.0,1876.0,0.0,28.0,1.0,2155.0,0.0,16.0,0.0,727.0,0.0,3.0,0.0,109.0,0.0,Bundesliga
+Elvis Rexhbecaj,23,"1,82 m",Germany  Kosovo,midfield - Central Midfield,left,1. FC Köln,28.0,9.0,2258.0,0.0,29.0,3.0,1564.0,0.0,18.0,1.0,1002.0,0.0,16.0,4.0,1096.0,0.0,Bundesliga
+Salih Özcan,22,"1,80 m",Germany,midfield - Central Midfield,right,1. FC Köln,32.0,0.0,2427.0,0.0,17.0,1.0,757.0,0.0,31.0,6.0,2506.0,0.0,16.0,1.0,996.0,0.0,Bundesliga
+Ondrej Duda,26,"1,81 m",Slovakia,midfield - Attacking Midfield,right,1. FC Köln,24.0,1.0,1117.0,0.0,35.0,11.0,2865.0,0.0,22.0,1.0,1516.0,0.0,16.0,2.0,1222.0,0.0,Bundesliga
+Dominick Drexler,30,"1,83 m",Germany,midfield - Attacking Midfield,right,1. FC Köln,34.0,14.0,3024.0,0.0,35.0,11.0,3117.0,0.0,29.0,3.0,1739.0,0.0,12.0,3.0,553.0,0.0,Bundesliga
+Jens Castrop,17,"1,77 m","Germany  Korea, South",midfield - Attacking Midfield,right,1.FC Köln U19,,,,,14.0,2.0,572.0,0.0,19.0,1.0,1409.0,0.0,3.0,0.0,228.0,0.0,Bundesliga
+Ismail Jakobs,21,"1,83 m",Germany  Senegal,attack - Left Winger,left,1. FC Köln,17.0,2.0,1179.0,0.0,17.0,3.0,1326.0,0.0,23.0,2.0,1929.0,0.0,11.0,0.0,938.0,0.0,Bundesliga
+Florian Kainz,28,"1,76 m",Austria,attack - Left Winger,right,1. FC Köln,34.0,4.0,1949.0,0.0,24.0,2.0,1774.0,0.0,29.0,6.0,1680.0,0.0,,,,,Bundesliga
+Marvin Obuz,18,"1,70 m",Germany  Turkey,attack - Left Winger,right,1. FC Köln,26.0,8.0,1893.0,0.0,18.0,12.0,1377.0,0.0,19.0,6.0,1644.0,0.0,13.0,5.0,865.0,0.0,Bundesliga
+Marius Wolf,25,"1,87 m",Germany,attack - Right Winger,right,1. FC Köln,34.0,6.0,2790.0,0.0,22.0,1.0,1258.0,0.0,24.0,1.0,1615.0,0.0,14.0,0.0,1195.0,0.0,Bundesliga
+Dimitrios Limnios,22,"1,78 m",Greece  Brazil,attack - Right Winger,right,1. FC Köln,31.0,1.0,1624.0,0.0,37.0,3.0,2421.0,0.0,43.0,6.0,2910.0,0.0,10.0,0.0,465.0,0.0,Bundesliga
+Jan Thielmann,18,"1,78 m",Germany,attack - Right Winger,right,1. FC Köln,16.0,7.0,1017.0,0.0,27.0,17.0,2050.0,0.0,27.0,6.0,1878.0,0.0,16.0,1.0,898.0,0.0,Bundesliga
+Christian Clemens,29,"1,79 m",Germany,attack - Right Winger,right,1. FC Köln,20.0,2.0,914.0,0.0,21.0,2.0,1461.0,0.0,1.0,0.0,15.0,0.0,7.0,0.0,534.0,0.0,Bundesliga
+Tim Lemperle,18,"1,87 m",Germany,attack - Right Winger,right,1. FC Köln,9.0,3.0,583.0,0.0,28.0,12.0,1849.0,0.0,17.0,3.0,1226.0,0.0,15.0,3.0,1044.0,0.0,Bundesliga
+Sebastian Andersson,29,"1,90 m",Sweden,attack - Centre-Forward,right,1. FC Köln,34.0,15.0,2528.0,0.0,38.0,13.0,2947.0,0.0,36.0,13.0,2873.0,0.0,10.0,2.0,741.0,0.0,Bundesliga
+Anthony Modeste,32,"1,87 m",France  Martinique,attack - Centre-Forward,right,1. FC Köln,21.0,9.0,1766.0,0.0,10.0,6.0,367.0,0.0,29.0,4.0,1294.0,0.0,7.0,1.0,243.0,0.0,Bundesliga
+Tolu Arokodare,20,"1,97 m",Nigeria,attack - Centre-Forward,right,1. FC Köln,,,,,17.0,7.0,1462.0,0.0,16.0,15.0,1381.0,0.0,7.0,0.0,158.0,0.0,Bundesliga
+Robin Zentner,26,"1,95 m",Germany,Goalkeeper,right,1.FSV Mainz 05,17.0,0.0,1522.0,0.0,11.0,0.0,1020.0,0.0,22.0,0.0,1935.0,0.0,16.0,0.0,1470.0,0.0,Bundesliga
+Finn Dahmen,22,"1,88 m",Germany  England,Goalkeeper,right,1.FSV Mainz 05,27.0,1.0,2430.0,0.0,32.0,0.0,2880.0,0.0,10.0,0.0,887.0,0.0,1.0,0.0,90.0,0.0,Bundesliga
+Omer Hanin,22,"1,92 m",Israel  Portugal,Goalkeeper,both,1.FSV Mainz 05,0.0,0.0,0.0,0.0,3.0,0.0,145.0,0.0,4.0,0.0,360.0,0.0,,,,,Bundesliga
+Marius Liesegang,21,"1,88 m",Germany,Goalkeeper,right,1.FSV Mainz 05,21.0,0.0,1856.0,0.0,25.0,0.0,2250.0,0.0,8.0,0.0,720.0,0.0,6.0,0.0,540.0,0.0,Bundesliga
+Moussa Niakhaté,24,"1,90 m",France  Mali,Defender - Centre-Back,left,1.FSV Mainz 05,38.0,0.0,3374.0,0.0,34.0,1.0,2792.0,0.0,34.0,1.0,3060.0,0.0,15.0,0.0,1367.0,0.0,Bundesliga
+Jeremiah St. Juste,24,"1,86 m",Netherlands  St. Kitts & Nevis,Defender - Centre-Back,right,1.FSV Mainz 05,25.0,3.0,1999.0,0.0,26.0,3.0,1987.0,0.0,27.0,2.0,2228.0,0.0,17.0,0.0,1560.0,0.0,Bundesliga
+Luca Kilian,21,"1,92 m",Germany,Defender - Centre-Back,right,1.FSV Mainz 05,31.0,6.0,2724.0,0.0,28.0,4.0,2193.0,0.0,16.0,0.0,1381.0,0.0,7.0,0.0,499.0,0.0,Bundesliga
+Stefan Bell,29,"1,92 m",Germany,Defender - Centre-Back,right,1.FSV Mainz 05,28.0,1.0,2476.0,0.0,27.0,0.0,2460.0,0.0,1.0,0.0,67.0,0.0,1.0,0.0,90.0,0.0,Bundesliga
+Alexander Hack,27,"1,93 m",Germany,Defender - Centre-Back,left,1.FSV Mainz 05,17.0,1.0,1444.0,0.0,15.0,1.0,1137.0,0.0,14.0,0.0,802.0,0.0,11.0,1.0,909.0,0.0,Bundesliga
+Dimitri Lavalée,23,"1,87 m",Belgium,Defender - Centre-Back,left,1.FSV Mainz 05,0.0,0.0,0.0,0.0,32.0,0.0,2453.0,0.0,11.0,0.0,842.0,0.0,3.0,0.0,270.0,0.0,Bundesliga
+Daniel Brosinski,32,"1,78 m",Germany,Defender - Right-Back,right,1.FSV Mainz 05,33.0,3.0,2892.0,0.0,28.0,3.0,2414.0,0.0,27.0,2.0,1791.0,0.0,13.0,1.0,1133.0,0.0,Bundesliga
+Phillipp Mwene,26,"1,70 m",Austria  Kenya,Defender - Right-Back,right,1.FSV Mainz 05,33.0,4.0,2723.0,0.0,7.0,1.0,390.0,0.0,4.0,0.0,315.0,0.0,2.0,0.0,160.0,0.0,Bundesliga
+Niklas Tauer,19,"1,83 m",Germany,midfield - Defensive Midfield,right,1.FSV Mainz 05,24.0,3.0,1580.0,0.0,25.0,2.0,2090.0,0.0,13.0,2.0,1069.0,0.0,9.0,0.0,544.0,0.0,Bundesliga
+Pierre Kunde Malong,25,"1,80 m",Cameroon,midfield - Central Midfield,right,1.FSV Mainz 05,38.0,5.0,2581.0,0.0,31.0,0.0,1968.0,0.0,28.0,4.0,1873.0,0.0,11.0,0.0,513.0,0.0,Bundesliga
+Edimilson Fernandes,24,"1,90 m",Switzerland  Portugal,midfield - Central Midfield,right,1.FSV Mainz 05,17.0,0.0,1096.0,0.0,33.0,2.0,2193.0,0.0,25.0,1.0,1579.0,0.0,12.0,0.0,754.0,0.0,Bundesliga
+Leandro Barreiro,21,"1,74 m",Luxembourg  Portugal,midfield - Central Midfield,right,1.FSV Mainz 05,24.0,4.0,1997.0,0.0,24.0,5.0,2093.0,0.0,19.0,0.0,1026.0,0.0,13.0,0.0,879.0,0.0,Bundesliga
+Danny Latza,31,"1,79 m",Germany,midfield - Central Midfield,right,1.FSV Mainz 05,33.0,2.0,2624.0,0.0,24.0,0.0,1874.0,0.0,24.0,0.0,1436.0,0.0,14.0,1.0,1041.0,0.0,Bundesliga
+Merveille Papela,19,"1,74 m",Germany,midfield - Central Midfield,right,1.FSV Mainz 05,27.0,5.0,2072.0,0.0,24.0,1.0,2006.0,0.0,12.0,1.0,767.0,0.0,13.0,0.0,878.0,0.0,Bundesliga
+Levin Öztunali,24,"1,85 m",Germany  Turkey,midfield - Right Midfield,right,1.FSV Mainz 05,26.0,0.0,1870.0,0.0,16.0,0.0,954.0,0.0,27.0,4.0,1778.0,0.0,10.0,0.0,537.0,0.0,Bundesliga
+Jean-Paul Boëtius,26,"1,78 m",Netherlands  Suriname,midfield - Attacking Midfield,right,1.FSV Mainz 05,39.0,6.0,2609.0,0.0,33.0,4.0,2272.0,0.0,29.0,4.0,2360.0,0.0,16.0,1.0,1325.0,0.0,Bundesliga
+Kevin Stöger,27,"1,75 m",Austria,midfield - Attacking Midfield,left,1.FSV Mainz 05,32.0,4.0,2742.0,0.0,28.0,2.0,2292.0,0.0,19.0,1.0,1433.0,0.0,9.0,1.0,336.0,0.0,Bundesliga
+Paul Nebel,18,"1,69 m",Germany,attack - Right Winger,both,1.FSV Mainz 05,5.0,1.0,374.0,0.0,28.0,14.0,2046.0,0.0,22.0,5.0,1951.0,0.0,8.0,1.0,319.0,0.0,Bundesliga
+Robin Quaison,27,"1,83 m",Sweden  Ghana,attack - Second Striker,right,1.FSV Mainz 05,26.0,4.0,1555.0,0.0,30.0,9.0,2313.0,0.0,33.0,13.0,2701.0,0.0,17.0,3.0,1108.0,0.0,Bundesliga
+Jean-Philippe Mateta,23,"1,92 m",France  DR Congo,attack - Centre-Forward,right,1.FSV Mainz 05,37.0,19.0,2831.0,0.0,36.0,14.0,2563.0,0.0,18.0,3.0,1056.0,0.0,17.0,10.0,1150.0,0.0,Bundesliga
+Karim Onisiwo,28,"1,88 m",Austria,attack - Centre-Forward,right,1.FSV Mainz 05,10.0,0.0,365.0,0.0,27.0,7.0,1242.0,0.0,33.0,4.0,1810.0,0.0,15.0,1.0,745.0,0.0,Bundesliga
+Jonathan Burkardt,20,"1,81 m",Germany,attack - Centre-Forward,right,1.FSV Mainz 05,23.0,13.0,1573.0,0.0,18.0,8.0,1417.0,0.0,11.0,2.0,377.0,0.0,15.0,1.0,761.0,0.0,Bundesliga
+Dong-won Ji,29,"1,87 m","Korea, South",attack - Centre-Forward,right,1.FSV Mainz 05,19.0,2.0,1434.0,0.0,16.0,4.0,982.0,0.0,4.0,0.0,100.0,0.0,7.0,0.0,94.0,0.0,Bundesliga
+Ádám Szalai,33,"1,93 m",Hungary,attack - Centre-Forward,right,1.FSV Mainz 05,20.0,5.0,946.0,0.0,37.0,6.0,2016.0,0.0,28.0,2.0,1212.0,0.0,4.0,1.0,51.0,0.0,Bundesliga
+Marlon Mustapha,19,"1,85 m",Austria,attack - Centre-Forward,right,1.FSV Mainz 05,,,,,19.0,5.0,1221.0,0.0,18.0,12.0,1504.0,0.0,8.0,1.0,589.0,0.0,Bundesliga
+Loris Karius,27,"1,89 m",Germany,Goalkeeper,right,1.FC Union Berlin,33.0,0.0,2970.0,0.0,35.0,0.0,3150.0,0.0,32.0,0.0,2880.0,0.0,1.0,0.0,90.0,0.0,Bundesliga
+Andreas Luthe,33,"1,95 m",Germany,Goalkeeper,right,1.FC Union Berlin,2.0,0.0,180.0,0.0,17.0,0.0,1550.0,0.0,10.0,0.0,900.0,0.0,16.0,0.0,1470.0,0.0,Bundesliga
+Jakob Busk,27,"1,89 m",Denmark,Goalkeeper,right,1.FC Union Berlin,20.0,0.0,1800.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,Bundesliga
+Robin Knoche,28,"1,90 m",Germany,Defender - Centre-Back,right,1.FC Union Berlin,29.0,2.0,2583.0,0.0,34.0,3.0,2974.0,0.0,31.0,2.0,2438.0,0.0,17.0,0.0,1560.0,0.0,Bundesliga
+Marvin Friedrich,25,"1,92 m",Germany,Defender - Centre-Back,right,1.FC Union Berlin,25.0,1.0,2126.0,0.0,38.0,1.0,3448.0,0.0,34.0,2.0,3060.0,0.0,17.0,4.0,1560.0,0.0,Bundesliga
+Nico Schlotterbeck,21,"1,91 m",Germany,Defender - Centre-Back,left,1.FC Union Berlin,28.0,7.0,2494.0,0.0,27.0,2.0,2226.0,0.0,15.0,0.0,576.0,0.0,3.0,2.0,300.0,0.0,Bundesliga
+Florian Hübner,29,"1,93 m",Germany,Defender - Centre-Back,right,1.FC Union Berlin,9.0,0.0,321.0,0.0,31.0,2.0,2714.0,0.0,11.0,0.0,849.0,0.0,3.0,0.0,270.0,0.0,Bundesliga
+Christopher Lenz,26,"1,80 m",Germany,Defender - Left-Back,left,1.FC Union Berlin,12.0,0.0,820.0,0.0,13.0,0.0,880.0,0.0,30.0,1.0,2610.0,0.0,16.0,0.0,1410.0,0.0,Bundesliga
+Niko Gießelmann,29,"1,82 m",Germany,Defender - Left-Back,left,1.FC Union Berlin,35.0,3.0,3092.0,0.0,32.0,0.0,2774.0,0.0,28.0,1.0,2386.0,0.0,8.0,0.0,253.0,0.0,Bundesliga
+Christopher Trimmel,33,"1,89 m",Austria,Defender - Right-Back,right,1.FC Union Berlin,34.0,1.0,3034.0,0.0,35.0,0.0,3163.0,0.0,35.0,0.0,3060.0,0.0,16.0,0.0,1379.0,0.0,Bundesliga
+Julian Ryerson,23,"1,83 m",Norway  United States,Defender - Right-Back,right,1.FC Union Berlin,16.0,3.0,1440.0,0.0,9.0,0.0,401.0,0.0,17.0,0.0,536.0,0.0,13.0,0.0,306.0,0.0,Bundesliga
+Sebastian Griesbeck,30,"1,89 m",Germany,midfield - Defensive Midfield,right,1.FC Union Berlin,31.0,0.0,2589.0,0.0,36.0,2.0,3028.0,0.0,33.0,2.0,2829.0,0.0,16.0,0.0,670.0,0.0,Bundesliga
+Robert Andrich,26,"1,87 m",Germany,midfield - Central Midfield,right,1.FC Union Berlin,32.0,5.0,2694.0,0.0,27.0,4.0,1894.0,0.0,34.0,4.0,2873.0,0.0,14.0,4.0,1118.0,0.0,Bundesliga
+Grischa Prömel,26,"1,84 m",Germany,midfield - Central Midfield,both,1.FC Union Berlin,24.0,1.0,1742.0,0.0,33.0,7.0,2981.0,0.0,19.0,0.0,1108.0,0.0,13.0,2.0,1103.0,0.0,Bundesliga
+Christian Gentner,35,"1,89 m",Germany,midfield - Central Midfield,right,1.FC Union Berlin,29.0,3.0,2595.0,0.0,32.0,1.0,2231.0,0.0,34.0,4.0,2628.0,0.0,7.0,0.0,354.0,0.0,Bundesliga
+Marius Bülter,27,"1,88 m",Germany,attack - Left Winger,right,1.FC Union Berlin,33.0,20.0,2662.0,0.0,33.0,4.0,2342.0,0.0,36.0,7.0,2529.0,0.0,14.0,1.0,632.0,0.0,Bundesliga
+Keita Endo,23,"1,75 m",Japan,attack - Left Winger,right,1.FC Union Berlin,37.0,2.0,2438.0,0.0,42.0,7.0,2603.0,0.0,9.0,3.0,589.0,0.0,7.0,1.0,147.0,0.0,Bundesliga
+Marcus Ingvartsen,25,"1,87 m",Denmark,attack - Right Winger,left,1.FC Union Berlin,27.0,7.0,1734.0,0.0,11.0,1.0,174.0,0.0,32.0,6.0,2063.0,0.0,12.0,1.0,853.0,0.0,Bundesliga
+Sheraldo Becker,25,"1,80 m",Netherlands  Suriname,attack - Right Winger,right,1.FC Union Berlin,29.0,2.0,2400.0,0.0,35.0,8.0,3081.0,0.0,14.0,0.0,595.0,0.0,16.0,3.0,1126.0,0.0,Bundesliga
+Akaki Gogia,28,"1,78 m",Germany  Georgia,attack - Right Winger,both,1.FC Union Berlin,22.0,2.0,1471.0,0.0,31.0,6.0,1505.0,0.0,3.0,0.0,120.0,0.0,7.0,0.0,165.0,0.0,Bundesliga
+Tim Maciejewski,19,"1,84 m",Germany,attack - Right Winger,,1.FC Union Berlin,22.0,5.0,1238.0,0.0,8.0,1.0,536.0,0.0,18.0,12.0,1496.0,0.0,1.0,0.0,7.0,0.0,Bundesliga
+Max Kruse,32,"1,80 m",Germany,attack - Second Striker,left,1.FC Union Berlin,33.0,8.0,2709.0,0.0,36.0,12.0,3226.0,0.0,23.0,7.0,1873.0,0.0,10.0,6.0,724.0,0.0,Bundesliga
+Taiwo Awoniyi,23,"1,83 m",Nigeria,attack - Centre-Forward,right,1.FC Union Berlin,31.0,10.0,2454.0,0.0,38.0,14.0,2203.0,0.0,12.0,1.0,475.0,0.0,14.0,5.0,926.0,0.0,Bundesliga
+Joel Pohjanpalo,26,"1,86 m",Finland,attack - Centre-Forward,right,1.FC Union Berlin,8.0,2.0,164.0,0.0,,,,,15.0,9.0,909.0,0.0,6.0,2.0,255.0,0.0,Bundesliga
+Anthony Ujah,30,"1,80 m",Nigeria,attack - Centre-Forward,right,1.FC Union Berlin,12.0,0.0,253.0,0.0,23.0,4.0,843.0,0.0,28.0,4.0,1181.0,0.0,,,,,Bundesliga
+Cedric Teuchert,23,"1,82 m",Germany,attack - Centre-Forward,right,1.FC Union Berlin,23.0,6.0,764.0,0.0,11.0,3.0,445.0,0.0,24.0,6.0,1349.0,0.0,13.0,2.0,415.0,0.0,Bundesliga
+Stefan Ortega Moreno,28,"1,85 m",Germany  Spain,Goalkeeper,right,Arminia Bielefeld,35.0,0.0,3180.0,0.0,31.0,0.0,2790.0,0.0,36.0,0.0,3240.0,0.0,15.0,0.0,1350.0,0.0,Bundesliga
+Oscar Linnér,23,"1,99 m",Sweden,Goalkeeper,right,Arminia Bielefeld,32.0,0.0,2910.0,0.0,31.0,0.0,2820.0,0.0,8.0,0.0,750.0,0.0,0.0,0.0,0.0,0.0,Bundesliga
+Nikolai Rehnen,23,"1,91 m",Germany,Goalkeeper,right,Arminia Bielefeld,0.0,0.0,0.0,0.0,41.0,0.0,3750.0,0.0,1.0,0.0,90.0,0.0,0.0,0.0,0.0,0.0,Bundesliga
+Amos Pieper,22,"1,92 m",Germany,Defender - Centre-Back,right,Arminia Bielefeld,22.0,1.0,1646.0,0.0,24.0,0.0,1640.0,0.0,33.0,0.0,2788.0,0.0,12.0,0.0,1065.0,0.0,Bundesliga
+Mike van der Hoorn,28,"1,90 m",Netherlands,Defender - Centre-Back,right,Arminia Bielefeld,33.0,1.0,2738.0,0.0,50.0,3.0,4426.0,0.0,31.0,1.0,2515.0,0.0,14.0,0.0,1249.0,0.0,Bundesliga
+Joakim Nilsson,26,"1,85 m",Sweden,Defender - Centre-Back,left,Arminia Bielefeld,30.0,3.0,2558.0,0.0,10.0,0.0,851.0,0.0,31.0,1.0,2734.0,0.0,6.0,0.0,452.0,0.0,Bundesliga
+Anderson Lucoqui,23,"1,80 m",Angola  Germany,Defender - Left-Back,left,Arminia Bielefeld,23.0,1.0,1935.0,0.0,17.0,0.0,1145.0,0.0,5.0,0.0,353.0,0.0,12.0,0.0,849.0,0.0,Bundesliga
+Jacob Barrett Laursen,26,"1,79 m",Denmark,Defender - Left-Back,left,Arminia Bielefeld,22.0,2.0,1893.0,0.0,34.0,5.0,2741.0,0.0,27.0,1.0,1825.0,0.0,5.0,0.0,261.0,0.0,Bundesliga
+Cédric Brunner,26,"1,80 m",Switzerland,Defender - Right-Back,right,Arminia Bielefeld,29.0,1.0,2228.0,0.0,24.0,1.0,1894.0,0.0,27.0,2.0,2292.0,0.0,13.0,0.0,1123.0,0.0,Bundesliga
+Nathan de Medina,23,"1,83 m",Belgium  Cape Verde,Defender - Right-Back,right,Arminia Bielefeld,19.0,2.0,1469.0,0.0,2.0,0.0,30.0,0.0,23.0,1.0,1824.0,0.0,6.0,0.0,392.0,0.0,Bundesliga
+Arne Maier,22,"1,86 m",Germany,midfield - Defensive Midfield,right,Arminia Bielefeld,32.0,1.0,2462.0,0.0,26.0,0.0,2248.0,0.0,16.0,0.0,722.0,0.0,6.0,0.0,133.0,0.0,Bundesliga
+Manuel Prietl,29,"1,87 m",Austria,midfield - Defensive Midfield,right,Arminia Bielefeld,33.0,0.0,2978.0,0.0,34.0,0.0,2969.0,0.0,33.0,4.0,2934.0,0.0,14.0,1.0,1258.0,0.0,Bundesliga
+Fabian Kunze,22,"1,91 m",Germany,midfield - Defensive Midfield,right,Arminia Bielefeld,33.0,2.0,2771.0,0.0,35.0,1.0,3175.0,0.0,16.0,0.0,475.0,0.0,9.0,0.0,284.0,0.0,Bundesliga
+Nils Seufert,23,"1,82 m",Germany,midfield - Central Midfield,both,Arminia Bielefeld,28.0,2.0,2319.0,0.0,22.0,0.0,1487.0,0.0,17.0,0.0,828.0,0.0,7.0,0.0,247.0,0.0,Bundesliga
+Reinhold Yabo,28,"1,76 m",Germany  DR Congo,midfield - Central Midfield,right,Arminia Bielefeld,38.0,3.0,2405.0,0.0,32.0,5.0,1972.0,0.0,25.0,4.0,1337.0,0.0,8.0,0.0,326.0,0.0,Bundesliga
+Jomaine Consbruch,18,"1,74 m",Germany,midfield - Central Midfield,,Arminia Bielefeld,21.0,3.0,1544.0,0.0,20.0,3.0,1473.0,0.0,18.0,4.0,1528.0,0.0,1.0,0.0,45.0,0.0,Bundesliga
+Marcel Hartel,24,"1,77 m",Germany,midfield - Attacking Midfield,both,Arminia Bielefeld,30.0,2.0,1719.0,0.0,30.0,2.0,1813.0,0.0,35.0,1.0,2997.0,0.0,15.0,0.0,1266.0,0.0,Bundesliga
+Jóan Símun Edmundsson,29,"1,85 m",Faroe Islands,midfield - Attacking Midfield,left,Arminia Bielefeld,28.0,4.0,1497.0,0.0,25.0,4.0,2110.0,0.0,23.0,5.0,1471.0,0.0,5.0,1.0,52.0,0.0,Bundesliga
+Ritsu Doan,22,"1,72 m",Japan,attack - Right Winger,left,Arminia Bielefeld,31.0,10.0,2416.0,0.0,33.0,5.0,2888.0,0.0,27.0,3.0,1522.0,0.0,15.0,2.0,1253.0,0.0,Bundesliga
+Cebio Soukou,28,"1,85 m",Benin  Germany,attack - Right Winger,right,Arminia Bielefeld,15.0,4.0,785.0,0.0,37.0,15.0,3107.0,0.0,32.0,6.0,1516.0,0.0,9.0,1.0,481.0,0.0,Bundesliga
+Christian Gebauer,27,"1,87 m",Austria,attack - Right Winger,right,Arminia Bielefeld,47.0,6.0,3756.0,0.0,34.0,4.0,2759.0,0.0,33.0,5.0,2422.0,0.0,6.0,0.0,256.0,0.0,Bundesliga
+Noel Niemann,21,"1,71 m",Germany,attack - Second Striker,right,Arminia Bielefeld,7.0,2.0,471.0,0.0,7.0,1.0,352.0,0.0,16.0,2.0,808.0,0.0,11.0,2.0,877.0,0.0,Bundesliga
+Andreas Voglsammer,29,"1,78 m",Germany,attack - Centre-Forward,right,Arminia Bielefeld,35.0,13.0,2965.0,0.0,35.0,13.0,2690.0,0.0,31.0,13.0,2327.0,0.0,3.0,0.0,47.0,0.0,Bundesliga
+Sergio Córdova,23,"1,88 m",Venezuela,attack - Centre-Forward,right,Arminia Bielefeld,27.0,2.0,586.0,0.0,22.0,3.0,620.0,0.0,16.0,2.0,360.0,0.0,12.0,0.0,644.0,0.0,Bundesliga
+Fabian Klos,33,"1,94 m",Germany,attack - Centre-Forward,both,Arminia Bielefeld,34.0,8.0,2437.0,0.0,35.0,17.0,2870.0,0.0,35.0,22.0,3041.0,0.0,15.0,2.0,1298.0,0.0,Bundesliga
+Sebastian Müller,19,"1,80 m",Germany,attack - Centre-Forward,right,Arminia Bielefeld,25.0,12.0,1743.0,0.0,21.0,12.0,1504.0,0.0,19.0,13.0,1693.0,0.0,2.0,0.0,2.0,0.0,Bundesliga
+Sven Schipplock,32,"1,86 m",Germany,attack - Centre-Forward,right,Arminia Bielefeld,11.0,0.0,344.0,0.0,4.0,2.0,217.0,0.0,9.0,1.0,194.0,0.0,14.0,1.0,462.0,0.0,Bundesliga
