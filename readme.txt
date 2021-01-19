@@ -7,7 +7,7 @@ Folder "data" contains scraped and merged data for 2017/18-2020/21 seasons.
 
 Folder "teams" contains .txt files necessary for my own scraper.
 
-Licencjat.ipynb is a file which I used for my own calculations.
+Licencjat.ipynb is a file which I used as a tool for my own calculations. It is a bit messy as for now, but effective.
 
 Repository is going to be updated and described better in a future as I finish my final thesis.
 
