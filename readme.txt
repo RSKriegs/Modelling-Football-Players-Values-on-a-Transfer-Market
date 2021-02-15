@@ -7,6 +7,6 @@ Folder "data" contains scraped and merged data for 2017/18-2020/21 seasons.
 
 Folder "teams" contains .txt files necessary for my own scraper.
 
-Packages used: pandas, numpy, matplotlib, seaborn, statsmodels, scikit-learn
+Packages used: pandas, numpy, matplotlib, seaborn, statsmodels, scikit-learn and others
 
 Repository is going to be updated and described more comprehensively in a future as I finish my final thesis. Work in progress
