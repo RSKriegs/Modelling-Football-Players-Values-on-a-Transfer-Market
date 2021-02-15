@@ -11,5 +11,5 @@ Licencjat.ipynb is a file which I used as a tool for my own calculations. It is 
 
 Repository is going to be updated and described better in a future as I finish my final thesis.
 
-
+Packages used: pandas, numpy, matplotlib, seaborn, statsmodels, scikit-learn
 
