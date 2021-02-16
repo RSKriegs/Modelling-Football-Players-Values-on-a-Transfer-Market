@@ -9,4 +9,10 @@ Folder "teams" contains .txt files necessary for my own scraper.
 
 Packages used: pandas, numpy, matplotlib, seaborn, statsmodels, scikit-learn and others
 
-Repository is going to be updated and described more comprehensively in a future as I finish my final thesis. Work in progress
+Repository is going to be updated and described more comprehensively in a future as I finish my final thesis. 
+
+Datasets are going to be added as I finish my final thesis.
+
+Final thesis should be added as well as I finish it.
+
+Work in progress
