@@ -1,3 +1,8 @@
+Note: the code and the structure within a project can be messy, but it served my own purpose - which was the whole ad-hoc analysis included in .pdf file... 
+In case you want to utilize it, refactoring is recommended.
+
+.pdf file "RS82640(...)" contains a finished bachelor thesis.
+
 Folder "scrapers" contains... well, web scrapers, that were used to download data from transfermarkt.de and fbref.com.
 Source code for scrapers which I modified accordingly:
 https://github.com/vnherdeiro/transfermarkt-scraping (my modificiations contained in a folder transfermarkt-scraping-master modified)
@@ -16,6 +21,3 @@ Folder "code" contains the whole code created for data wrangling, analysis, mode
 - Licencjat_Modelling_Gathered gathers the analysis from all above files and models validation, including out-of-sample validation basing on real-life transfers.
 - Note that several lines of code have been modified throughout the process of writing the thesis - in order to replicate results in 100%, one would need to change several parameters accordingly (for example - MAE for each league)
 - In the end, folder contains subfolder "demo scikit-learn", which consists of Licencjat_NeuralNet_GKExample.ipynb and Licencjat_RegressionsSKLearn_ExampleGK.ipynb files. Those are the files consisting of certain lines of code, with first one creating neural network basing on MLPClassifier algorithm checking if player on a transfermarkt.de is overvalued or undervalued, whereas the second one replicates the linear regression originally created in StatsModels. Each of them has been created for goalkeepers only. These have not been developed further as I have not used them in a final thesis.
-
-The work is finished, although I intend to update the models after the end of 2020/21 season. 
-Bachelor's thesis itself will be included in a repository after I defend it.
