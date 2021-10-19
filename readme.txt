@@ -55,7 +55,7 @@ If you want to refactor the project into some kind of an application or whatever
 ---
 You might want to ask me if I would want to change anything in this project?
 
-I would put a much stronger emphasis on a clean code principles in my Jupyter Notebooks. It does not hold to my current standards. But it worked :)
+I would put a much stronger emphasis on a clean code principles in my Jupyter Notebooks. It does not hold up to my current standards. But it worked :)
 
 
 
