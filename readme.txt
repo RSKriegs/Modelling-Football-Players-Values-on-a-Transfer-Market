@@ -46,7 +46,7 @@ Nevertheless, I wanted to deploy web scrapers as these were crucial for my datas
 ---
 You might want to ask me why I didn't implement scraping player's value functionality in transfermarkt scraping master but created my own scraper instead?
 
-Well... it was quite problematic and I needed to spend my time on other problems. And it worked. Although having done this project once again I would attempt to implement it.
+Well... it was quite problematic and I needed to spend my time on other problems. And it worked. Although, having done this project once again I would attempt to implement it.
 
 
 
