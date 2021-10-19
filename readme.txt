@@ -1,6 +1,3 @@
-Note: the code and the architecture within a project can be messy, but it served my own purpose - which was the whole ad-hoc analysis included in .pdf file... 
-In case you want to utilize it, refactoring is recommended.
-
 .pdf file "RS82640(...)" contains a finished bachelor thesis. Final grade 5/5
 
 Folder "code" contains the whole code created for data wrangling, analysis, modelling and visualization. 
@@ -15,7 +12,7 @@ Folder "scrapers" contains... well, web scrapers, that were used to download dat
 Source code for scrapers which I modified accordingly:
 https://github.com/vnherdeiro/transfermarkt-scraping (my modificiations contained in a folder transfermarkt-scraping-master modified)
 https://github.com/parth1902/Scrape-FBref-data (my modifications contained in a file FBRef_scrap_modified.ipynb)
-Includes my own scraper for players values on Transfermarkt (My Little Transfermarkt Scrapper Python.ipynb).
+Includes my own scraper for players values on Transfermarkt (my_little_transfermarkt_scraper.py).
 Folder "teams" within "my little transfermarkt scraper" subfolder contains .txt files used for my own scraper.
 
 Folder "data" contains scraped and merged data for 2017/18-2019/20 seasons, transfers.csv file with data for out-of-sample evaluation, and players_21.csv for players in FIFA 21 analysis.
@@ -48,6 +45,17 @@ You might want to ask me why I didn't implement scraping player's value function
 
 Well... it was quite problematic and I needed to spend my time on other problems. And it worked. Although, having done this project once again I would attempt to implement it.
 
+---
+You might want to ask me something more about the project structure?
+
+First of all, this project and a whole code behind it was intended to serve a sole purpose, which is an analysis in my bachelor's thesis. It wasn't intended to be an application itself.
+This is why it consists of Notebooks in 99%... :)
+If you want to refactor the project into some kind of an application or whatever - feel free to do so.
+
+---
+You might want to ask me if I would want to change anything in this project?
+
+I would put a much stronger emphasis on a clean code principles in my Jupyter Notebooks. It does not hold to my current standards. But it worked :)
 
 
 
