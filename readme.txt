@@ -28,13 +28,13 @@ Manual editing with programming is just uncomfortable compared to Excel, which I
 So, I have edited some of names & surnames manually in Excel, and joined the data accordingly using vlookups, instead of merging these with Pandas.
 
 To summarize - my logic was to:
-1. Construct data from web scrapers
+1. Construct web scrapers
 2. Download data through web scrapers
 - my little scraper - data for players values from transfermarkt
 - transfermarkt-scraping-master - for data from transfermarkt
 - FBRef Scrap Modified - for data from FBRef 
 3. Modify several records by hand in Excel
-4. Implement vlookups in Excel and join three datasets accordingly
+4. Implement vlookups in Excel and join three datasets accordingly, having a better overview of single records
 5. Utilize data for further analysis - again in Python
 
 That means that there is no final solution for that case within repository - as it relies on manual work in Excel as well.
