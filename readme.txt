@@ -34,7 +34,7 @@ To summarize - my logic was to:
 - transfermarkt-scraping-master - for data from transfermarkt
 - FBRef Scrap Modified - for data from FBRef 
 3. Modify several records by hand in Excel
-4. Implement vlookups in Excel and join three datasets accordingly, having a better overview of single records
+4. Implement vlookups in Excel and join three datasets accordingly, having better overview of single records
 5. Utilize data for further analysis - again in Python
 
 That means that there is no final solution for that case within repository - as it relies on manual work in Excel as well.
