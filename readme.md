@@ -12,7 +12,7 @@ Anyway:
 - Note that several lines of code have been modified throughout the process of writing the thesis - in order to replicate results in 100%, one would need to change several parameters accordingly (for example - MAE for each league)
 - In the end, folder contains subfolder "demo scikit-learn", which consists of Licencjat_NeuralNet_GKExample.ipynb and Licencjat_RegressionsSKLearn_ExampleGK.ipynb files. Those are the files consisting of certain lines of code, with first one creating neural network basing on MLPClassifier algorithm checking if player on a transfermarkt.de is overvalued or undervalued, whereas the second one replicates the linear regression originally created in StatsModels. Each of them has been created for goalkeepers only. These have not been developed further as I have not used them in a final thesis.
 
-Folder <code>/scrapers<code> contains... well, web scrapers, that were used to download data from transfermarkt.de and fbref.com.
+Folder <code>/scrapers</code> contains... well, web scrapers, that were used to download data from transfermarkt.de and fbref.com.
 Source code for scrapers which I modified accordingly:
 https://github.com/vnherdeiro/transfermarkt-scraping (my modifications contained in a folder transfermarkt-scraping-master)
 https://github.com/parth1902/Scrape-FBref-data (my modifications contained in a file FBRef_scrap_modified.ipynb)
