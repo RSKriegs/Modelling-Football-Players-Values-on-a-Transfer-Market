@@ -1,10 +1,10 @@
+UPDATE 06.12.2023 - cleaned up code. If you would try to run something on your own and it doesn't work please revert to one of the older versions - anyway I would suggest to treat the codebase here more as a reference to your works than trying to reproduce it.
+
 # Modelling Football Players Values on a Transfer Market
 
 This is a repository for my bachelor's thesis on a related topic. 
 
-Folder <code>/code</code> contains the whole code created for data wrangling, analysis, modelling and visualization. 
-**The code is a mess of poor quality.** I was writing it in 2020 when I was a newbie and used it mainly for final analytics that are included in a bachelor's thesis. 
-Anyway:
+Folder <code>/code</code> contains the code created for data wrangling, analysis, modelling, testing and visualization. 
 - Licencjat_DataViz.ipynb contains script that creates analysis and dashboards for I chapter of my bachelor's thesis and significant variables for team performance described in II chapter,
 - Licencjat_Fifa21Analysis.ipynb consists of compact analysis of distribution of chosen players' in-game attributes in their relation to age, what is a part of a I chapter.
 - Licencjat_Modelling_Goalkeepers.ipynb, Licencjat_Modelling_Defenders.ipynb, Licencjat_Modelling_Midfielders.ipynb, Licencjat_Modelling_Forwards.ipynb are the files where models for each position are created and properly diagnosed, including cross-validation for each.
@@ -21,8 +21,6 @@ The main dataset used that I've created for analytics: https://www.kaggle.com/da
 I have also used this one - https://www.kaggle.com/stefanoleone992/fifa-21-complete-player-dataset
 
 The code from scrapers itself does not suffice to recreate the whole dataset. Due to the reasons described in a thesis - certain players just didn't match due to differences in name & surname coding from websites, yet I wanted some to be included - I had to edit data manually in some cases.
-
-TODO: update code
 
 
 
