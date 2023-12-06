@@ -14,10 +14,10 @@ Anyway:
 
 Folder <code>/scrapers</code> contains... well, web scrapers, that were used to download data from transfermarkt.de and fbref.com.
 Source code for scrapers which I modified accordingly:
-https://github.com/vnherdeiro/transfermarkt-scraping (my modifications contained in a folder transfermarkt-scraping-master)
-https://github.com/parth1902/Scrape-FBref-data (my modifications contained in a file FBRef_scrap_modified.ipynb)
+- https://github.com/vnherdeiro/transfermarkt-scraping (my modifications contained in a folder transfermarkt-scraping-master)
+- https://github.com/parth1902/Scrape-FBref-data (my modifications contained in a file FBRef_scrap_modified.ipynb)
 
-The main dataset used that I've created for analytics: https://www.kaggle.com/datasets/kriegsmaschine/soccer-players-values-and-their-statistics
+The main dataset used that I've created for analytics: https://www.kaggle.com/datasets/kriegsmaschine/soccer-players-values-and-their-statistics <br>
 I have also used this one - https://www.kaggle.com/stefanoleone992/fifa-21-complete-player-dataset
 
 The code from scrapers itself does not suffice to recreate the whole dataset. Due to the reasons described in a thesis - certain players just didn't match due to differences in name & surname coding from websites, yet I wanted some to be included - I had to edit data manually in some cases.
