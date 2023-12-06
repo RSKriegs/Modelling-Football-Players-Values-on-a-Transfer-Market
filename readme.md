@@ -3,7 +3,7 @@
 This is a repository for my bachelor's thesis on a related topic. 
 
 Folder <code>/code</code> contains the whole code created for data wrangling, analysis, modelling and visualization. 
-**The code is a mess of poor quality.** I was writing it in 2019/2020 when I was a complete newbie and used it mainly for final analytics that are included in a bachelor's thesis. 
+**The code is a mess of poor quality.** I was writing it in 2020 when I was a newbie and used it mainly for final analytics that are included in a bachelor's thesis. 
 Anyway:
 - Licencjat_DataViz.ipynb contains script that creates analysis and dashboards for I chapter of my bachelor's thesis and significant variables for team performance described in II chapter,
 - Licencjat_Fifa21Analysis.ipynb consists of compact analysis of distribution of chosen players' in-game attributes in their relation to age, what is a part of a I chapter.
